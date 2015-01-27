@@ -6,3 +6,19 @@ Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 [ejk]: testing
 
+REQ-ID: FR01
+Description: The product shall identify, for a given therapist, treatment and date, the closest available time slot in which the therapist will be available to treat the patient.
+Type: Functional
+Rationale: In order to book an appointment for a patient to be treated.
+Originator: Carol (Office Manager)
+Comments: [Luismi-LopezEsteban] First draft
+
+REQ-ID: FR02
+Description: The product shall keep an schedule of which therapist are available and when, considering events such as holidays, illnesses, travel, etc.. 
+Type: Functional
+Rationale: In order to know when therapist area available to book patient treatments.
+Originator: Carol (Office Manager)
+Comments: [Luismi-LopezEsteban] First draft
+
+
+
