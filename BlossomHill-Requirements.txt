@@ -20,5 +20,21 @@ Rationale: In order to know when therapist area available to book patient treatm
 Originator: Carol (Office Manager)
 Comments: [Luismi-LopezEsteban] First draft
 
+REQ-ID: FR03
+Description: The product shall allow the modification of an appointment date
+Type: Functional
+Rationale: To allow for changes of patient or theropists circumstances
+Originator: Carol (Office Manager)
+Comments: [Paul Wilcox] First draft
+
+
+REQ-ID: FR04
+Description: The product shall allow the modification of a valid theropist to another valid theropist assigned to an appointment 
+Type: Functional
+Rationale: To allow for changes of schedule or circumstances of the theropist
+Originator: Carol (Office Manager)
+Comments: [Paul Wilcox] First draft
+
+
 
 
