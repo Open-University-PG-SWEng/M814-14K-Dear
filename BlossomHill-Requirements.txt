@@ -35,6 +35,16 @@ Rationale: To allow for changes of schedule or circumstances of the theropist
 Originator: Carol (Office Manager)
 Comments: [Paul Wilcox] First draft
 
+REQ-ID: FR05
+Description: The product shall record the payment due for a completed appointment
+Type: Functional
+Rationale: To enable an invoice to be prepared for treatment received
+Originator: Carol (Office Manager)
+Comments: [Philip Mularo]
 
-
-
+REQ-ID: FR06
+Description: The product shall record the patient's identifying information
+Type: Functional
+Rationale: To enable the system to track that the patient has attended the appointment as required
+Originator: Carol (Office Manager)
+Comments: [Philip Mularo]
