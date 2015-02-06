@@ -14,7 +14,7 @@ Originator: Carol (Office Manager)
 Comments: [Luismi-LopezEsteban] First draft
 
 REQ-ID: FR02
-Description: The product shall keep an schedule of which therapist are available and when, considering events such as holidays, illnesses, travel, etc.. 
+Description: The product shall keep an schedule of which therapist are available and when, considering events such as holidays, illnesses, travel, etc..
 Type: Functional
 Rationale: In order to know when therapist area available to book patient treatments.
 Originator: Carol (Office Manager)
@@ -27,9 +27,8 @@ Rationale: To allow for changes of patient or theropists circumstances
 Originator: Carol (Office Manager)
 Comments: [Paul Wilcox] First draft
 
-
 REQ-ID: FR04
-Description: The product shall allow the modification of a valid theropist to another valid theropist assigned to an appointment 
+Description: The product shall allow the modification of a valid theropist to another valid theropist assigned to an appointment
 Type: Functional
 Rationale: To allow for changes of schedule or circumstances of the theropist
 Originator: Carol (Office Manager)
@@ -49,7 +48,6 @@ Rationale: To enable the system to track that the patient has attended the appoi
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo]
 
-
 REQ-ID: FR07
 Description: The product shall show the next available slot for an appointment
 Type: Functional
@@ -63,3 +61,18 @@ Type: Functional
 Rationale: To be able to schedule a new appointment for a patient
 Originator: Carol (Office Manager)
 Comments: [Duncan Bain]
+
+REQ-ID: FR09
+Description: The system must update the therapist availability after each appointment entry.
+Type: Functional
+Rationale: In order to be able to track therapist availability
+Originator: Carol (Office Manager)
+Comments: [Giovanni Macciocu]
+
+REQ-ID: FR10
+Description: The system will provide the therapist with the possibilitiy to record into the system, how long it should be before the patient's next appointment.
+Type: Functional
+Rationale: In order to be able to determine the patient's next appointment.
+Originator: Therapist
+Comments: [Giovanni Macciocu]
+
