@@ -76,3 +76,17 @@ Rationale: In order to be able to determine the patient's next appointment.
 Originator: Therapist
 Comments: [Giovanni Macciocu]
 
+REQ-ID: FR11
+Description: Locate Patient Record in system
+Type: Functional
+Rationale: To allow the record to be updated with the information from the treatment form
+Originator: Receptionist
+Comments: [Marcus Wright]
+
+REQ-ID: FR12
+Description: The system will generate a receipt for a patients treatment payment
+Type: Functional
+Rationale: To complete the payment process and comply with legal requirement.
+Originator: Receptionist
+Comments: [Marcus Wright]
+
