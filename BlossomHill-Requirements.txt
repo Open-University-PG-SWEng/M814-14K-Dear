@@ -116,3 +116,17 @@ Type: Functional
 Rationale: To provide the receptionist with support to provide the patients with appointment reminders, either by phone, email or post.
 Originator: Carol (Office Manager)
 Comments: [Elly Kelly] 
+
+REQ-ID: FR17
+Description: The product should accept patient treatment record, indicating payment due and time to next appointment
+Type: Functional
+Rationale: To input the details from the treatment record into the systems to determine payment due and next appointment
+Originator: Carol (Office Manager)
+Comments: [Added Kevin Faulkner] 
+
+REQ-ID: FR18
+Description: The product shall output the treatment record to the existing treatment recording system and the patient payment  information to the existing accounts system
+Type: Functional
+Rationale: To provide the existing accounting and treatment record systems with the required inputs from the new system.
+Originator: David (Client)
+Comments: [Added Kevin Faulkner] 
