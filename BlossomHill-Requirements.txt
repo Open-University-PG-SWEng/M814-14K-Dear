@@ -4,7 +4,6 @@ Type:
 Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-[ejk]: testing
 
 REQ-ID: FR01
 Description: The product shall identify, for a given therapist, treatment and date, the closest available time slot in which the therapist will be available to treat the patient.
@@ -103,3 +102,17 @@ Type: Functional
 Rationale: To receive payment for treatment given to patients covered by a valid private health insurance policy from their health insurer.
 Originator: Carol (Office Manager)
 Comments: [Glen Pinner]
+
+REQ-ID: FR15
+Description: The product should automatically generate a printed booking confirmation for new or changed appointments (unless the appointment is before the end of the next day)
+Type: Functional
+Rationale: To provide the patient with a printed record of their booking, which can either be handed to them or posted.
+Originator: Carol (Office Manager)
+Comments: [Elly Kelly] 
+
+REQ-ID: FR16
+Description: The product should be able to generate a daily list of patients who's appointments are in less than four working day's time, sorted by date and time, which includes the patient's postal address, email and phone details.
+Type: Functional
+Rationale: To provide the receptionist with support to provide the patients with appointment reminders, either by phone, email or post.
+Originator: Carol (Office Manager)
+Comments: [Elly Kelly] 
