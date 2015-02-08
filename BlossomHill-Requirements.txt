@@ -129,4 +129,20 @@ Description: The product shall output the treatment record to the existing treat
 Type: Functional
 Rationale: To provide the existing accounting and treatment record systems with the required inputs from the new system.
 Originator: David (Client)
-Comments: [Added Kevin Faulkner] 
+Comments: [Added Kevin Faulkner]
+
+REQ-ID: FR19
+Description: The product should generate statistics about patients who miss appointments.
+Type: Functional
+Rationale: To gather data about patients missing appointments in order to try different approaches to minimise 'no-shows'.
+Originator: Carol (Office Manager)
+Comments: [James Oram]
+
+REQ-ID: FR20
+Description: The product should keep track of the medium that was used to remind the patients of their appointment.
+Type: Functional
+Rationale: To compare the different mediums and see which one is more effective.
+Originator: Carol (Office Manager)
+Comments: [James Oram]
+
+
