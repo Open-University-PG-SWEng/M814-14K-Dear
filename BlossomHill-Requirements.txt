@@ -90,3 +90,16 @@ Rationale: To complete the payment process and comply with legal requirement.
 Originator: Receptionist
 Comments: [Marcus Wright]
 
+REQ-ID: FR13
+Description: The product shall identify patients as self-paying or covered by a valid private health insurance policy.
+Type: Functional
+Rationale: To determine whether payment is required immediately after treatment for a self-paying patient or payment will be received from a health insurer for a patient covered by a valid private health insurance policy.
+Originator: Carol (Office Manager)
+Comments: [Glen Pinner]
+
+REQ-ID: FR14
+Description: The product shall invoice the health insurer for those patients covered by a valid private health insurance policy.
+Type: Functional
+Rationale: To receive payment for treatment given to patients covered by a valid private health insurance policy from their health insurer.
+Originator: Carol (Office Manager)
+Comments: [Glen Pinner]
