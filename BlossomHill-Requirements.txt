@@ -146,9 +146,9 @@ Originator: Carol (Office Manager)
 Comments: [James Oram]
 
 REQ-ID: FR21
-Description: The product shall record the way the patient would like to receive a reminder for their next appointment.
+Description: The product shall ensure therapists take their required breaks
 Type: Functional
-Rationale: To improve the effectiveness of reminders and reduce the number of 'no shows'. 
+Rationale: To ensure the therapists are working their correct hours
 Originator: Carol (Office Manager)
 Comments: [Ken King] 
 
