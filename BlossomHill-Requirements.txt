@@ -145,4 +145,16 @@ Rationale: To compare the different mediums and see which one is more effective.
 Originator: Carol (Office Manager)
 Comments: [James Oram]
 
+REQ-ID: FR21
+Description: The product shall record the way the patient would like to receive a reminder for their next appointment.
+Type: Functional
+Rationale: To improve the effectiveness of reminders and reduce the number of 'no shows'. 
+Originator: Carol (Office Manager)
+Comments: [Ken King] 
 
+REQ-ID: FR22
+Description: The product shall be able to modify the details of treatments offered by a therapist.
+Type: Functional
+Rationale: To ensure therapists perform treatments for which they are qualified.
+Originator: Carol (Office Manager)
+Comments: [Ken King]
