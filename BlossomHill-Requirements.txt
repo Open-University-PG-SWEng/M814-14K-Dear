@@ -172,3 +172,18 @@ Type: Functional
 Rationale: To provide the client the ability to remind themselves when their upcoming appointments are and reduce the risk of 'no-shows'.
 Originator: Carol (Office Manager)
 Comments: [Jonathan Bullock]
+
+REQ-ID: FR25
+Description: The product should generate a list of people expected for appointments before a session.
+Type: Functional
+Rationale: To ensure that the treatment records for a session are kept ready.
+Originator: Carol (Office Manager)
+Comments: [Sachin Prabhu]
+
+REQ-ID: FR26
+Description: Generate letters on missed appointments.
+Type: Functional
+Rationale: To remind patients of their missed appointment.
+Originator: Carol (Office Manager)
+Comments: [Sachin Prabhu]
+
