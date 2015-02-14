@@ -40,19 +40,8 @@ Rationale: To enable an invoice to be prepared for treatment received
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo]
 
-REQ-ID: FR06
-Description: The product shall record the patient's identifying information
-Type: Functional
-Rationale: To enable the system to track that the patient has attended the appointment as required
-Originator: Carol (Office Manager)
-Comments: [Philip Mularo]
-
-REQ-ID: FR07
-Description: The product shall show the next available slot for an appointment
-Type: Functional
-Rationale: To be able to schedule a new appointment for a patient
-Originator: Carol (Office Manager)
-Comments: [Duncan Bain]
+Comments: removed requirement FR06 duplicate of FR11 [Kevin Faulkner]
+Comments: removed requirement FR07 duplicate of FR01 [Kevin Faulkner]
 
 REQ-ID: FR08
 Description: The product shall record an appointment
