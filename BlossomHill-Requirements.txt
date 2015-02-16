@@ -1,23 +1,16 @@
-REQ-ID:
-Description:
-Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-
 REQ-ID: FR01
 Description: The product shall identify, for a given therapist, treatment and date, the closest available time slot in which the therapist will be available to treat the patient.
 Type: Functional
 Rationale: In order to book an appointment for a patient to be treated.
 Originator: Carol (Office Manager)
-Comments: [Luismi-LopezEsteban] First draft
+Comments: [Luismi-LopezEsteban]
 
 REQ-ID: FR02
-Description: The product shall keep an schedule of which therapist are available and when, considering events such as holidays, illnesses, travel, etc..
+Description: The product shall keep a schedule of which therapists are available and when, considering events such as holidays, illnesses, travel etc..
 Type: Functional
-Rationale: In order to know when therapist area available to book patient treatments.
+Rationale: In order to know when therapist are available to book patient treatments.
 Originator: Carol (Office Manager)
-Comments: [Luismi-LopezEsteban] First draft
+Comments: [Luismi-LopezEsteban]
 
 REQ-ID: FR03
 Description: The product shall allow the modification of an appointment date
@@ -160,27 +153,20 @@ Originator: Carol (Office Manager)
 Comments: [Ken King]
 
 REQ-ID: FR23
-Description: The product shall allow sessions to be defined and marked as available or not available.
-Type: Functional
-Rationale: To ensure that appointments are not made when the therapists are not available due to holidays etc.
-Originator: Carol (Office Manager)
-Comments: [Jonathan Bullock]
-
-REQ-ID: FR24
 Description: The product shall allow patients to identify themselves to the clinic's web site and see when their appointments are.
 Type: Functional
 Rationale: To provide the client the ability to remind themselves when their upcoming appointments are and reduce the risk of 'no-shows'.
 Originator: Carol (Office Manager)
 Comments: [Jonathan Bullock]
 
-REQ-ID: FR25
+REQ-ID: FR24
 Description: The product should generate a list of people expected for appointments before a session.
 Type: Functional
 Rationale: To ensure that the treatment records for a session are kept ready.
 Originator: Carol (Office Manager)
 Comments: [Sachin Prabhu]
 
-REQ-ID: FR26
+REQ-ID: FR25
 Description: Generate letters on missed appointments.
 Type: Functional
 Rationale: To remind patients of their missed appointment.
