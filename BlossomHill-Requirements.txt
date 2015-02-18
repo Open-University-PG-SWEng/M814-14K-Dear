@@ -180,13 +180,6 @@ Rationale: To remind patients of their missed appointment.
 Originator: Carol (Office Manager)
 Comments: [Sachin Prabhu]
 
-REQ-ID: FR27
-Description: The product should create an invoice for the treatment.
-Type: Functional
-Rationale: To receive payment for treatment given to patients covered by a health insurance.
-Originator: Carol (Office Manager)
-Comments: [Delio D'Anna]
-
 REQ-ID: FR28
 Description: The product should generate a confirmation letter.
 Type: Functional
