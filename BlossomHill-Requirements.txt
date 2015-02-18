@@ -47,13 +47,6 @@ Rationale: To enable the system to track that the patient has attended the appoi
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo]
 
-REQ-ID: FR07
-Description: The product shall show the next available slot for an appointment
-Type: Functional
-Rationale: To be able to schedule a new appointment for a patient
-Originator: Carol (Office Manager)
-Comments: [Duncan Bain]
-
 REQ-ID: FR08
 Description: The product shall record an appointment
 Type: Functional
@@ -159,13 +152,6 @@ Rationale: To ensure therapists perform treatments for which they are qualified.
 Originator: Carol (Office Manager)
 Comments: [Ken King]
 
-REQ-ID: FR23
-Description: The product shall allow sessions to be defined and marked as available or not available.
-Type: Functional
-Rationale: To ensure that appointments are not made when the therapists are not available due to holidays etc.
-Originator: Carol (Office Manager)
-Comments: [Jonathan Bullock]
-
 REQ-ID: FR24
 Description: The product shall allow patients to identify themselves to the clinic's web site and see when their appointments are.
 Type: Functional
@@ -186,13 +172,6 @@ Type: Functional
 Rationale: To remind patients of their missed appointment.
 Originator: Carol (Office Manager)
 Comments: [Sachin Prabhu]
-
-REQ-ID: FR27
-Description: The product should create an invoice for the treatment.
-Type: Functional
-Rationale: To receive payment for treatment given to patients covered by a health insurance.
-Originator: Carol (Office Manager)
-Comments: [Delio D'Anna]
 
 REQ-ID: FR28
 Description: The product should generate a confirmation letter.
