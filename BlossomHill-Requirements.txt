@@ -214,3 +214,18 @@ Type: Functional
 Rationale: To find a time and date that suits both the therapist and patient.
 Originator: Office Manager (Carol)
 Comments: [Ben Green]
+
+REQ-ID: FR31
+Description: The product shall automatically pass the list of people expected for a session to the treatment records system before the start of each session.
+Type: Functional
+Rationale: To save time finding the records before treatment can start.
+Originator: Office Manager (Carol)
+Comments: [Miroslav Cosic]
+
+REQ-ID: FR32
+Description: The product shall be able to store and display the details of treatments offered by a therapist.
+Type: Functional
+Rationale: To assist the receptionists in booking a first appointment with the correct therapist.
+Originator: Carol (Office Manager)
+Comments: [Miroslav Cosic] This requirement is complementary to FR22, and like FR22 it is derived implicitly from the description of the work given by Carol. In her description, she does not explicitly state how the receptionists match patients to therapists on the first appointment, and this may well be tacit knowledge not stored anywhere in the current system.
+
