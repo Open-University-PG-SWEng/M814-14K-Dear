@@ -201,5 +201,16 @@ Rationale: To notify the patients of their next appointment.
 Originator: Carol (Office Manager)
 Comments: [Delio D'Anna]
 
+REQ-ID: FR29
+Description: The product shall calculate the payment due to the clinic for the treatment delivered by one of its therapists, and generate an invoice for the patient.
+Type: Functional
+Rationale: To ensure that all treatment is paid for in full, soon after the treatment is provided.
+Originator: Office Manager (Carol)
+Comments: [Ben Green]
 
-
+REQ-ID: FR30
+Description: The product shall identify when a therapist is available to be scheduled for an appointment to provide treatment.
+Type: Functional
+Rationale: To find a time and date that suits both the therapist and patient.
+Originator: Office Manager (Carol)
+Comments: [Ben Green]
