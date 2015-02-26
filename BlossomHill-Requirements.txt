@@ -1,3 +1,10 @@
+REQ-ID:
+Description:
+Type:
+Rationale:
+Originator:
+Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+
 REQ-ID: FR01
 Description: The product shall identify, for a given therapist, treatment and date, the closest available time slot in which the therapist will be available to treat the patient.
 Type: Functional
@@ -33,6 +40,20 @@ Rationale: To enable an invoice to be prepared for treatment received
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo]
 
+REQ-ID: FR06
+Description: The product shall record the patient's identifying information
+Type: Functional
+Rationale: To enable the system to track that the patient has attended the appointment as required
+Originator: Carol (Office Manager)
+Comments: [Philip Mularo]
+
+REQ-ID: FR07
+Description: The product shall show the next available slot for an appointment
+Type: Functional
+Rationale: To be able to schedule a new appointment for a patient
+Originator: Carol (Office Manager)
+Comments: [Duncan Bain]
+
 REQ-ID: FR08
 Description: The product shall record an appointment
 Type: Functional
@@ -41,28 +62,28 @@ Originator: Carol (Office Manager)
 Comments: [Duncan Bain]
 
 REQ-ID: FR09
-Description: The product shall update the therapist availability after each appointment entry.
+Description: The system must update the therapist availability after each appointment entry.
 Type: Functional
 Rationale: In order to be able to track therapist availability
 Originator: Carol (Office Manager)
 Comments: [Giovanni Macciocu]
 
 REQ-ID: FR10
-Description: The product shall provide the therapist with the possibilitiy to record into the system, how long it should be before the patient's next appointment.
+Description: The system will provide the therapist with the possibilitiy to record into the system, how long it should be before the patient's next appointment.
 Type: Functional
 Rationale: In order to be able to determine the patient's next appointment.
 Originator: Therapist
 Comments: [Giovanni Macciocu]
 
 REQ-ID: FR11
-Description: The product shall allow to retrieve and update patient information
+Description: Locate Patient Record in system
 Type: Functional
-Rationale: To query and record when a patient has been treated, by whom and for which treatment.
+Rationale: To allow the record to be updated with the information from the treatment form
 Originator: Receptionist
 Comments: [Marcus Wright]
 
 REQ-ID: FR12
-Description: The product shall generate a receipt for a patients treatment through a direct monetary payment
+Description: The system will generate a receipt for a patients treatment payment
 Type: Functional
 Rationale: To complete the payment process and comply with legal requirement.
 Originator: Receptionist
@@ -83,21 +104,21 @@ Originator: Carol (Office Manager)
 Comments: [Glen Pinner]
 
 REQ-ID: FR15
-Description: The product shall automatically generate a printed booking confirmation for new or changed appointments (unless the appointment is before the end of the next day)
+Description: The product should automatically generate a printed booking confirmation for new or changed appointments (unless the appointment is before the end of the next day)
 Type: Functional
 Rationale: To provide the patient with a printed record of their booking, which can either be handed to them or posted.
 Originator: Carol (Office Manager)
 Comments: [Elly Kelly] 
 
 REQ-ID: FR16
-Description: The product shall be able to generate a daily list of patients who's appointments are in less than four working day's time, sorted by date and time, which includes the patient's postal address, email and phone details.
+Description: The product should be able to generate a daily list of patients who's appointments are in less than four working day's time, sorted by date and time, which includes the patient's postal address, email and phone details.
 Type: Functional
 Rationale: To provide the receptionist with support to provide the patients with appointment reminders, either by phone, email or post.
 Originator: Carol (Office Manager)
 Comments: [Elly Kelly] 
 
 REQ-ID: FR17
-Description: The product shall accept patient treatment record, indicating payment due and time to next appointment
+Description: The product should accept patient treatment record, indicating payment due and time to next appointment
 Type: Functional
 Rationale: To input the details from the treatment record into the systems to determine payment due and next appointment
 Originator: Carol (Office Manager)
@@ -111,14 +132,14 @@ Originator: David (Client)
 Comments: [Added Kevin Faulkner]
 
 REQ-ID: FR19
-Description: The product shall generate statistics about patients who miss appointments.
+Description: The product should generate statistics about patients who miss appointments.
 Type: Functional
 Rationale: To gather data about patients missing appointments in order to try different approaches to minimise 'no-shows'.
 Originator: Carol (Office Manager)
 Comments: [James Oram]
 
 REQ-ID: FR20
-Description: The product shall keep track of the medium that was used to remind the patients of their appointment.
+Description: The product should keep track of the medium that was used to remind the patients of their appointment.
 Type: Functional
 Rationale: To compare the different mediums and see which one is more effective.
 Originator: Carol (Office Manager)
@@ -153,22 +174,57 @@ Originator: Carol (Office Manager)
 Comments: [Jonathan Bullock]
 
 REQ-ID: FR25
-Description: The product shall generate a list of people expected for appointments before a session.
+Description: The product should generate a list of people expected for appointments before a session.
 Type: Functional
 Rationale: To ensure that the treatment records for a session are kept ready.
 Originator: Carol (Office Manager)
 Comments: [Sachin Prabhu]
 
 REQ-ID: FR26
-Description: The product shall generate letters on missed appointments.
+Description: Generate letters on missed appointments.
 Type: Functional
 Rationale: To remind patients of their missed appointment.
 Originator: Carol (Office Manager)
 Comments: [Sachin Prabhu]
 
+REQ-ID: FR27
+Description: The product should create an invoice for the treatment.
+Type: Functional
+Rationale: To receive payment for treatment given to patients covered by a health insurance.
+Originator: Carol (Office Manager)
+Comments: [Delio D'Anna]
+
 REQ-ID: FR28
-Description: The product shall generate a confirmation letter.
+Description: The product should generate a confirmation letter.
 Type: Functional
 Rationale: To notify the patients of their next appointment.
 Originator: Carol (Office Manager)
 Comments: [Delio D'Anna]
+
+REQ-ID: FR29
+Description: The product shall calculate the payment due to the clinic for the treatment delivered by one of its therapists, and generate an invoice for the patient.
+Type: Functional
+Rationale: To ensure that all treatment is paid for in full, soon after the treatment is provided.
+Originator: Office Manager (Carol)
+Comments: [Ben Green]
+
+REQ-ID: FR30
+Description: The product shall identify when a therapist is available to be scheduled for an appointment to provide treatment.
+Type: Functional
+Rationale: To find a time and date that suits both the therapist and patient.
+Originator: Office Manager (Carol)
+Comments: [Ben Green]
+
+REQ-ID: FR31
+Description: The product shall ensure that the patient’s name and address on the receipt for payment are the same as in the accounting system.
+Type: Functional
+Rationale: It is possible that the patient does not have the information about their insurer at hand, in which case they would pay for the treatment directly at the clinic in spite of having insurance. This requirement makes it easier to allow patients to subsequently claim repayment from their insurer.
+Originator: Indirectly based on Carol’s description of the work
+Comments: [Miroslav Cosic] 
+
+REQ-ID: FR32
+Description: The product shall ensure that the patient’s name and birth date are the same as in the treatment record system.
+Type: Functional
+Rationale: To assist in correctly tracking patients’ treatment sessions and missed appointments.
+Originator: Indirectly based on Carol’s description of the work
+Comments: [Miroslav Cosic] 
