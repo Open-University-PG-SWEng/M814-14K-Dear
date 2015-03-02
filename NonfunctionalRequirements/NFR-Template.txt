@@ -5,3 +5,13 @@ Rationale:
 Fit Criterion:
 Originator:
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+REQ-ID: NFR01
+Description: The product shall perform FR01 fast enough.
+Type: Performance
+Rationale: Patients would not tolerate long delays when waiting for their next appointment date to be offered.
+Fit criterion: The product shall retrieve the required information in less than 3 seconds for 90% of queries. No response shall take longer than five seconds.
+Originator: Carol (Office Manager)
+Comments: [LMLopez] Initial draft
+
+
