@@ -1,0 +1,7 @@
+REQ-ID:NFR11
+Description: The product shall provide the information within a reasonable amount of time
+Type: Performance
+Rationale: The users of the system are busy and need to access the information as quickly and easily as possible.
+Fit Criterion: The product shall retrieve the requested details in less than 3 seconds and show the fields to be updated in the order they should be input, enabling keyboard (tabbed) navigation. 
+Originator: Carol (office manager)
+Comments: [Marcus Wright] Updated information
