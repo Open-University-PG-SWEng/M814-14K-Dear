@@ -1,0 +1,7 @@
+REQ-ID: NFR14
+Description: The product shall interact with the existing accounting system.
+Type: 13
+Rationale: The clinic wishes to receive payment from private health insurance companies for treatment performed on patients covered by a valid private health insurance policy.
+Fit Criterion: The product shall interface to the accounting system using the accounting system's published application programming interface.
+Originator: Carol (Office Manager)
+Comments: [Glen Pinner] Initial draft.
