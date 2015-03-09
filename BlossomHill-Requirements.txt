@@ -126,6 +126,13 @@ Rationale: To compare the different methods and see which one is more effective.
 Originator: Carol (Office Manager)
 Comments: [James Oram]
 
+REQ-ID: FR21
+Description: The product shall ensure therapists take their required breaks
+Type: Functional
+Rationale: To ensure the therapists are working their correct hours
+Originator: Carol (Office Manager)
+Comments: [Ken King] 
+
 REQ-ID: FR24
 Description: The product shall allow patients to identify themselves to the clinic's web site and see when their appointments are.
 Type: Functional
