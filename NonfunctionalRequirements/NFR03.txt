@@ -1,6 +1,6 @@
 REQ-ID: NFR03
 Description: The product shall allow an easy and quick selection of a new appointment date
-Type: Usability and Humanity Requirements
+Type: Performance
 Rationale: To keep the time of modifying dates to a minimum
 Fit criterion: The product shall allow the selection of a new appointment date within 5 seconds 80% of the time no new date selection should take longer than 20 seconds. 
 Originator: Patient/Therapist
