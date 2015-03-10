@@ -5,3 +5,4 @@ Rationale: The clinic wishes to receive payment from private health insurance co
 Fit Criterion: The product shall interface to the accounting system using the accounting system's published application programming interface.
 Originator: Carol (Office Manager)
 Comments: [Glen Pinner] Initial draft.
+[Luismi López] Good work, although to improve it I would recommend to include the name and version of the accounting applications in the description, and a reference to the API documentation in the fit criterion (i.e. part number A68982-1, January 2014)

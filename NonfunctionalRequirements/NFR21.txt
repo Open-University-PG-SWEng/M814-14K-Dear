@@ -1,0 +1,8 @@
+REQ-ID:NFR21
+Description: The product shall ensure that the therapists take their legally required breaks
+Type: Legal Requirements
+Rationale: The business has its own policy on employee breaks which will determine the scheduling of appointments however the product must also ensure that these must comply with their legal obligations. 
+Fit Criterion: The  product shall schedule appointments at intervals that ensure that the business complies with working hours requirements as set out at in the Working Time Regulations 1998 Act  (http://www.legislation.gov.uk/uksi/1998/1833/contents/made).
+Originator: Carol (Office Manager)
+Comments: [Ken King] Initial draft.
+[Luismi López] Good work, although I would rephrase the description to be more precise: the product shall ensure therapists' scheduled appointments fully comply with their legally required breaks.
