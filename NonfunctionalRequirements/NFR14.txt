@@ -7,3 +7,4 @@ Originator: Carol (Office Manager)
 Comments: [Glen Pinner] Initial draft.
 [Luismi López] Good work, although to improve it I would recommend to include the name and version of the accounting applications in the description, and a reference to the API documentation in the fit criterion (i.e. part number A68982-1, January 2014)
 [Ken King] This is good. Perhaps the fit criterion could more explicitly define what would be considered a successful transfer of data.
+[Giovanni Macciocu] I would replace "Type: 13" with an actual descriptive word to indicate the requirement type.
