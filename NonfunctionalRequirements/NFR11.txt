@@ -10,3 +10,4 @@ Comments: [Marcus Wright] Updated information
 It also contains technological elements "keyboard, tabbed navigation", being solution-bound.
 
 I suggest to remove ambiguity by replacing, "the information" by "any information requested" in its description, if we are to consider it applies to the whole system.
+[Ken King] This seems like a good Fit Criterion for testing 'performance' but I am not sure that it requires the additional explanation about the tabbed navigation.
