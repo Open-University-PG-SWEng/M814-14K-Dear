@@ -33,7 +33,6 @@ Rationale: To enable an invoice to be prepared for treatment received.
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo]
 
->>>>>>> glen-pinner-tma02
 REQ-ID: FR08
 Description: The product shall record an appointment
 Type: Functional
@@ -42,7 +41,6 @@ Originator: Carol (Office Manager)
 Comments: [Duncan Bain]
 
 REQ-ID: FR09
-Description: The product shall update the therapist availability after each appointment entry.
 Description: The product shall update the therapist schedule after each appointment entry.
 Type: Functional
 Rationale: In order to be able to determine the patient's next appointment.
@@ -89,21 +87,21 @@ Description: The product shall automatically generate a printed booking confirma
 Type: Functional
 Rationale: To provide the patient with a printed record of their booking, which can either be handed to them or posted.
 Originator: Carol (Office Manager)
-Comments: [Elly Kelly] 
+Comments: [Elly Kelly]
 
 REQ-ID: FR16
 Description: The product shall be able to generate a daily list of patients who's appointments are in less than four working day's time, sorted by date and time, which includes the patient's postal address, email and phone details.
 Type: Functional
 Rationale: To provide the receptionist with support to provide the patients with appointment reminders, either by phone, email or post.
 Originator: Carol (Office Manager)
-Comments: [Elly Kelly] 
+Comments: [Elly Kelly]
 
 REQ-ID: FR17
 Description: The product shall accept patient treatment record, indicating payment due and time to next appointment
 Type: Functional
 Rationale: To input the details from the treatment record into the systems to determine payment due and next appointment
 Originator: Carol (Office Manager)
-Comments: [Added Kevin Faulkner] 
+Comments: [Added Kevin Faulkner]
 
 REQ-ID: FR18
 Description: The product shall output the patient payment information to the existing accounts system.
@@ -131,7 +129,7 @@ Description: The product shall ensure therapists take their required breaks
 Type: Functional
 Rationale: To ensure the therapists are working their correct hours
 Originator: Carol (Office Manager)
-Comments: [Ken King] 
+Comments: [Ken King]
 
 REQ-ID: FR24
 Description: The product shall allow patients to identify themselves to the clinic's web site and see when their appointments are.
@@ -180,11 +178,11 @@ Description: The product shall ensure that the patients name and address on th
 Type: Functional
 Rationale: It is possible that the patient does not have the information about their insurer at hand, in which case they would pay for the treatment directly at the clinic in spite of having insurance. This requirement makes it easier to allow patients to subsequently claim repayment from their insurer.
 Originator: Indirectly based on Carols description of the work
-Comments: [Miroslav Cosic] 
+Comments: [Miroslav Cosic]
 
 REQ-ID: FR32
 Description: The product shall ensure that the patients name and birth date are the same as in the treatment record system.
 Type: Functional
 Rationale: To assist in correctly tracking patients treatment sessions and missed appointments.
 Originator: Indirectly based on Carols description of the work
-Comments: [Miroslav Cosic] 
+Comments: [Miroslav Cosic]
