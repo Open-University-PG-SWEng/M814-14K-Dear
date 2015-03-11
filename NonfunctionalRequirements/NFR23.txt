@@ -1,0 +1,8 @@
+REQ-ID: NFR23
+Description: The product shall ensure the confidentiality of a patients appointments.
+Type: Security
+Rationale: To ensure the clinic adheres to their legal obligations under the Data Protection Act and reassure patients that their information is safe and secure.
+Fit Criterion: The product shall require a patient to identify themselves prior to displaying their appointments. 
+Originator: Carol (Office Manager)
+Comments: [JSB] Initial draft.
+
