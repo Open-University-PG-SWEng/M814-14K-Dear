@@ -1,0 +1,7 @@
+REQ-ID:NFR09
+Description: The product shall perform FR09 within a reasonable amount of time.
+Type: Performance
+Rationale: Prevent incorrect information regarding the therpist availability.
+Fit Criterion: The therapist schedule must be updated in less than 3 seconds after a new appointment entry.
+Originator: Receptionist
+Comments: [Giovanni Macciocu] Initial draft
