@@ -1,0 +1,7 @@
+REQ-ID:NFR05
+Description: The product shall accurately transfer all financial transaction details to the accounts system.
+Type: Performance
+Rationale: Accurate records of payments for treatment must be transferred to the accounts system to enable the creation of valid invoices for insurance companies.
+Fit Criterion: A transaction recorded by the appointments system must exactly match that recorded in the accounts system after a transfer has taken place.
+Originator: Carol (Office Manager)
+Comments: [Philip Mularo] Initial draft.
