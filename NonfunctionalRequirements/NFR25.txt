@@ -1,5 +1,5 @@
 REQ-ID: NFR25
-Description: The product must make it easy for users to generate the list of appointments before a session.
+Description: The product must be able to quickly generate the list of appointments before a session.
 Type: Performance
 Rationale: The receptionists are expected to perform many tasks at the beginning of a session and should not be required to spend much time generating the list.
 Fit criterion: The receptionist must be able to generate a list of appointments for a session using no more than 3 actions.
