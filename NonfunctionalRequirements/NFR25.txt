@@ -1,0 +1,9 @@
+REQ-ID: NFR25
+Description: The product must be able to quickly generate the list of appointments before a session.
+Type: Performance
+Rationale: The receptionists are expected to perform many tasks at the beginning of a session and should not be required to spend much time generating the list.
+Fit criterion: The receptionist must be able to generate a list of appointments for a session using no more than 3 actions.
+Originator: Carol (Office Manager)
+Comments:
+[Sachin Prabhu] Initial draft
+[Duncan Bain] The type is performance (speed), so I would expect a measure of time as a fit criterion. It is not clear what actions are referred to and how long they may take to perform. I can see were you are coming from, but I don’t think the description and the fit criterion match each other.
