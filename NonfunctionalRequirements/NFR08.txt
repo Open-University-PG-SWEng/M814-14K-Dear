@@ -1,0 +1,9 @@
+REQ-ID:NFR08
+Description:The product shall record an appointment in such a way that it will be intuitive for the average office worker.
+Type:Usability
+Rationale:The users are part-time office staff with average experience in using office applications,so the usability of the product should not require any training.
+Fit Criterion:80 % of users should be able to record an appointment without referring to the on-line help or requiring any training.
+Originator:Carol (Office Manager)
+Comments: [Duncan Bain] Initial draft
+
+
