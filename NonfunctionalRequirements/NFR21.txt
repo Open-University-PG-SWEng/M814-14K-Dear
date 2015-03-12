@@ -7,3 +7,4 @@ Originator: Carol (Office Manager)
 Comments: [Ken King] Initial draft.
 [Luismi LÛpez] Good work, although I would rephrase the description to be more precise: the product shall ensure therapists' scheduled appointments fully comply with their legally required breaks.
 [Sachin Prabhu] This is a functional requirement. We need to document a non functional requirement.
+[Duncan Bain] A good non-functional requirement. I agree with Luismi’s comment.

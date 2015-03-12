@@ -8,4 +8,5 @@ Comments: [LMLopez] Initial draft
 [Ken King] This is good. My only comment is that the description is brief and means that you have to look up FR01 to understand it.
 [Giovanni Macciocu] I think this is good. Minor remark regarding the  rationale. I think the rationale should be related to a certain service level the company wants to offer, not the fact that a patient would not tolerate long delays, therefore I would refrase the rationale to something like "Avoid delays between apointment offerings"
 [Sachin Prabhu] I agree with Ken. I would like to see a better description so that developers do not have to lookup FR01 to understand what is rqired. The specified range is good but I would like it to be more consistent when using specifying numbers either in numeral form or word form(3 and five in the fit criterion above.)
+[Duncan Bain] I agree with previous comments about using a better description.
 

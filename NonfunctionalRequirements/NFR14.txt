@@ -9,3 +9,4 @@ Comments: [Glen Pinner] Initial draft.
 [Ken King] This is good. Perhaps the fit criterion could more explicitly define what would be considered a successful transfer of data.
 [Giovanni Macciocu] I would replace "Type: 13" with an actual descriptive word to indicate the requirement type.
 [Sachin Prabhu] This is a functional requirement. Not a NFR as required.
+[Duncan Bain] To elaborate on Giovanni’s comment, I suggest replacing ’13’ with ’13b. Requirements for Interfacing with Adjacent Systems’ as referred to on p. 447 of MRP. The word ‘interface’ seems more appropriate than ‘interact’ in the description. The fit criterion should contain the seven elements referred to in MRP.

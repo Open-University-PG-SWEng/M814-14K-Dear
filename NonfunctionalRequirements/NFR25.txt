@@ -6,3 +6,4 @@ Fit criterion: The receptionist must be able to generate a list of appointments 
 Originator: Carol (Office Manager)
 Comments:
 [Sachin Prabhu] Initial draft
+[Duncan Bain] The type is performance (speed), so I would expect a measure of time as a fit criterion. It is not clear what actions are referred to and how long they may take to perform. I can see were you are coming from, but I don’t think the description and the fit criterion match each other.
