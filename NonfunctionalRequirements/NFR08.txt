@@ -6,3 +6,4 @@ Fit Criterion:80 % of users should be able to record an appointment without refe
 Originator:Carol (Office Manager)
 Comments: [Duncan Bain] Initial draft
 [Sachin Prabhu] Looks fine to me.
+[JSB] I agree this is a good non-functional requirement.

@@ -6,4 +6,5 @@ Fit Criterion: A transaction recorded by the appointments system must exactly ma
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo] Initial draft.
 [Sachin Prabhu] I think the description descibes a functional requirement.
-[Duncan Bain] This is a valid non-functional requirement: 12c Precision or Accuracy Requirements as referred to on p. 443 of MRP. I would suggest being a bit more specific about which components of the transaction must be the same. For example: amounts up to two decimals; transaction date. The definition of ‘transaction’ can be interpreted in many ways, so an internal reference in the appointments system may not be required in the accounts system. 
+[Duncan Bain] This is a valid non-functional requirement: 12c Precision or Accuracy Requirements as referred to on p. 443 of MRP. I would suggest being a bit more specific about which components of the transaction must be the same. For example: amounts up to two decimals; transaction date. The definition of "transaction" can be interpreted in many ways, so an internal reference in the appointments system may not be required in the accounts system. 
+[JSB] I think this is a good non-functional requirements.
