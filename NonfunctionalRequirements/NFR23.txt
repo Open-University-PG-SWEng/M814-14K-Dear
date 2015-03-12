@@ -5,4 +5,4 @@ Rationale: To ensure the clinic adheres to their legal obligations under the Dat
 Fit Criterion: The product shall require a patient to identify themselves prior to displaying their appointments. 
 Originator: Carol (Office Manager)
 Comments: [JSB] Initial draft.
-
+[Sachin Prabhu] I think the fit criterion should be changed to point to some existing standards related to security. As described, I think it is suitable for a functional requirement as well as it proposes a solution which shold be avoided.

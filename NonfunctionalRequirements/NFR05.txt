@@ -5,3 +5,4 @@ Rationale: Accurate records of payments for treatment must be transferred to the
 Fit Criterion: A transaction recorded by the appointments system must exactly match that recorded in the accounts system after a transfer has taken place.
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo] Initial draft.
+[Sachin Prabhu] I think the description descibes a functional requirement.

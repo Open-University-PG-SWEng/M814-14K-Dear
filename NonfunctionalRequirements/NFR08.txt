@@ -5,5 +5,4 @@ Rationale:The users are part-time office staff with average experience in using 
 Fit Criterion:80 % of users should be able to record an appointment without referring to the on-line help or requiring any training.
 Originator:Carol (Office Manager)
 Comments: [Duncan Bain] Initial draft
-
-
+[Sachin Prabhu] Looks fine to me.

@@ -5,3 +5,4 @@ Rationale: The receptionists are expected to perform many tasks at the beginning
 Fit criterion: The receptionist must be able to generate a list of appointments for a session using no more than 3 actions.
 Originator: Carol (Office Manager)
 Comments:
+[Sachin Prabhu] Initial draft
