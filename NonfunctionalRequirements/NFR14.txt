@@ -5,6 +5,7 @@ Rationale: The clinic wishes to receive payment from private health insurance co
 Fit Criterion: The product shall interface to the accounting system using the accounting system's published application programming interface.
 Originator: Carol (Office Manager)
 Comments: [Glen Pinner] Initial draft.
-[Luismi López] Good work, although to improve it I would recommend to include the name and version of the accounting applications in the description, and a reference to the API documentation in the fit criterion (i.e. part number A68982-1, January 2014)
+[Luismi Lopez] Good work, although to improve it I would recommend to include the name and version of the accounting applications in the description, and a reference to the API documentation in the fit criterion (i.e. part number A68982-1, January 2014)
 [Ken King] This is good. Perhaps the fit criterion could more explicitly define what would be considered a successful transfer of data.
 [Giovanni Macciocu] I would replace "Type: 13" with an actual descriptive word to indicate the requirement type.
+[JSB] To avoid it sounding like a functional requirement I would recommend re-wording the description to something like "support interaction with 3rd party accounting system" then the fit criterion could be "data transfer successful using API v3, v4 and v5".
