@@ -1,0 +1,8 @@
+REQ-ID: NFR24
+Description: The product shall ensure that only authorised users have access to the clinic's timetable of appointments and that an authenticated patient is only authorised to view details of their own appointments.
+Type: 15 (Security)
+Rationale: To ensure the confidentiality of patient related information is not compromised by unauthorised users as this could lead to the clinic being held criminally responsible for a breach in the data protection act.
+Fit Criterion : An authenticated patient must only be able to view their appointments, and not the appointments of any other patient.
+Originator: Carol (Office Manager)
+Comments: [Ben Green] Initial Draft.
+
