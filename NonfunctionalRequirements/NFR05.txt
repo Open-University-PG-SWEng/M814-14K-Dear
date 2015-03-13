@@ -1,0 +1,12 @@
+REQ-ID:NFR05
+Description: The product shall accurately transfer all financial transaction details to the accounts system.
+Type: Performance
+Rationale: Accurate records of payments for treatment must be transferred to the accounts system to enable the creation of valid invoices for insurance companies.
+Fit Criterion: A transaction recorded by the appointments system must exactly match that recorded in the accounts system after a transfer has taken place.
+Originator: Carol (Office Manager)
+Comments: [Philip Mularo] Initial draft.
+[Sachin Prabhu] I think the description descibes a functional requirement.
+[Duncan Bain] This is a valid non-functional requirement: 12c Precision or Accuracy Requirements as referred to on p. 443 of MRP. I would suggest being a bit more specific about which components of the transaction must be the same. For example: amounts up to two decimals; transaction date. The definition of "transaction" can be interpreted in many ways, so an internal reference in the appointments system may not be required in the accounts system. 
+[JSB] I think this is a good non-functional requirements.
+[Sachin Prabhu] The example on page 296 describes a functional requirement and the fit criteria is very similar to the one listed above. I think accurracy comes into pictures when measuring or calculating values and do not apply in such cases where data needs to be copied from one system to another.
+[LMLopez] Good points, Duncan, for an otherwise good requirement. Reference to the interface documentation, or specific standards may also help (i.e. Standard rounding criteria for EUR is to calculate 4 decimal points, then rounding to 2)
