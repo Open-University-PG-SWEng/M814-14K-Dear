@@ -1,0 +1,16 @@
+REQ-ID:NFR11
+Description: The product shall provide the information within a reasonable amount of time
+Type: Performance
+Rationale: The users of the system are busy and need to access the information as quickly and easily as possible.
+Fit Criterion: The product shall retrieve the requested details in less than 3 seconds and show the fields to be updated in the order they should be input, enabling keyboard (tabbed) navigation. 
+Originator: Carol (office manager)
+Comments: [Marcus Wright] Updated information
+[Luismi López] In my view, your NFR11 requirement is incorrect because mixes performance (description and fit criterion "in less than 3 seconds" and usability concepts (".. show the fields to be updated in the order they should be input, enabling keyboard (tabbed) navigation.") 
+
+It also contains technological elements "keyboard, tabbed navigation", being solution-bound.
+
+I suggest to remove ambiguity by replacing, "the information" by "any information requested" in its description, if we are to consider it applies to the whole system.
+[Ken King] This seems like a good Fit Criterion for testing 'performance' but I am not sure that it requires the additional explanation about the tabbed navigation.
+[Sachin Prabhu] I think the description should clearly state what information is required. For example, some information like statistics could take longer to generate and may not pass the fit criterion. The fit criterion also shouldn't propose any possible solutions. So I would just have the performance bits in it.
+[Duncan Bain] The description should be more precise by referring to patient information and not just to 'information'. I would drop 'easy' from the rationale, as it is not relevant to performance. The fit criterion refers to both performance and usability. I would suggest just using the performance fit criterion.
+[JSB] I agree with Ken, the tabbed navigation should be left out or separated out to it's own non-functional requirement.
