@@ -1,8 +1,8 @@
 REQ-ID: NFR01
 Description: The product shall perform FR01 fast enough.
-Type: Performance
-Rationale: Patients would not tolerate long delays when waiting for their next appointment date to be offered.
-Fit criterion: The product shall retrieve the required information in less than 3 seconds for 90% of queries. No response shall take longer than five seconds.
+Type: 12
+Rationale: To avoid delays between apointment offerings.
+Fit criterion: The product shall retrieve the required information in less than 3 seconds for 90% of queries. No response shall take longer than 5 seconds.
 Originator: Carol (Office Manager)
 Comments: [LMLopez] Initial draft
 [Ken King] This is good. My only comment is that the description is brief and means that you have to look up FR01 to understand it.
@@ -10,3 +10,4 @@ Comments: [LMLopez] Initial draft
 [Sachin Prabhu] I agree with Ken. I would like to see a better description so that developers do not have to lookup FR01 to understand what is rqired. The specified range is good but I would like it to be more consistent when using specifying numbers either in numeral form or word form(3 and five in the fit criterion above.)
 [Duncan Bain] I agree with previous comments about using a better description.
 [JSB] I also agree with the previous comments about including more in the description and being consistent on the numerical specification.
+[LMLopez] Thanks guys, I will rephrase the rationale (thanks Giovanni) and fix numerical specification to be more consistent, but I will keep the reference to FR01 in the description, making NFR01 dependent of FR01, because if it is modified or deleted for whathever reason, I still want to perform (or not) the action described in the functional requirement, not the copied text in the non-functional one. This in my experience a much better approach, avoiding confussions, and clearly overcomes the minor inconveniences of having to consult the original reference from time to time. 

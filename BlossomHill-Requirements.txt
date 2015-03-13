@@ -27,12 +27,24 @@ Originator: Therapist
 Comments: [Paul Wilcox]
 
 REQ-ID: FR05
+<<<<<<< HEAD
+Description: The product shall record the payment due for a completed appointment
+Type: Functional
+Rationale: To enable an invoice to be prepared for treatment received
+Originator: Carol (Office Manager)
+Comments: [Philip Mularo]
+
+Comments: removed requirement FR06 duplicate of FR11 [Kevin Faulkner]
+Comments: removed requirement FR07 duplicate of FR01 [Kevin Faulkner]
+
+=======
 Description: The product shall record the payment due for a completed appointment.
 Type: Functional
 Rationale: To enable an invoice to be prepared for treatment received.
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo]
 
+>>>>>>> 1f60ffd1bff8a7ffa72c3aa7912e5a7f62258517
 REQ-ID: FR08
 Description: The product shall record an appointment
 Type: Functional

@@ -1,0 +1,9 @@
+REQ-ID: NFR19
+Description: The product shall only display statistics to authorised users.
+Type: Security
+Rationale: This can be considered sensitive data that can provide a competitive advantage, so it should only be displayed to certain users.
+Fit Criterion: Only users with the privileges to view the statistics can access them.
+Originator: Carol (Office Manager)
+Comments: 
+
+

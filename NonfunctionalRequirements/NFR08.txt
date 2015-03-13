@@ -7,3 +7,4 @@ Originator:Carol (Office Manager)
 Comments: [Duncan Bain] Initial draft
 [Sachin Prabhu] Looks fine to me.
 [JSB] I agree this is a good non-functional requirement.
+[LMLopez] Good requirement, although it can be more precise in the "user" term used in the fit criterion: 80% of the use base, composed by receptionists, should be able to.. 
