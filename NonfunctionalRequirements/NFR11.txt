@@ -1,4 +1,4 @@
-REQ-ID:NFR11
+﻿REQ-ID:NFR11
 Description: The product shall provide the information within a reasonable amount of time
 Type: Performance
 Rationale: The users of the system are busy and need to access the information as quickly and easily as possible.
@@ -13,4 +13,5 @@ I suggest to remove ambiguity by replacing, "the information" by "any informatio
 [Ken King] This seems like a good Fit Criterion for testing 'performance' but I am not sure that it requires the additional explanation about the tabbed navigation.
 [Sachin Prabhu] I think the description should clearly state what information is required. For example, some information like statistics could take longer to generate and may not pass the fit criterion. The fit criterion also shouldn't propose any possible solutions. So I would just have the performance bits in it.
 [Duncan Bain] The description should be more precise by referring to patient information and not just to 'information'. I would drop 'easy' from the rationale, as it is not relevant to performance. The fit criterion refers to both performance and usability. I would suggest just using the performance fit criterion.
-[JSB] I agree with Ken, the tabbed navigation should be left out or separated out to it's own non-functional requirement.
+[JSB] I agree with Ken, the tabbed navigation should be left out or separated out to its own non-functional requirement.
+[Miroslav Cosic] I agree with most comments: specify what info is shown (because some statistics may take a while to produce); don’t mention tabbed entry in a performance NFR; don’t say “easy” in the rationale.
