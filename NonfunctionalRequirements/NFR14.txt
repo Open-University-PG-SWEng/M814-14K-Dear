@@ -11,3 +11,4 @@ Comments: [Glen Pinner] Initial draft.
 [Sachin Prabhu] This is a functional requirement. Not a NFR as required.
 [Duncan Bain] To elaborate on Giovanni's comment, I suggest replacing 13 with 13b. Requirements for Interfacing with Adjacent Systems' as referred to on p. 447 of MRP. The word 'interface' seems more appropriate than 'interact' in the description. The fit criterion should contain the seven elements referred to in MRP.
 [JSB] To avoid it sounding like a functional requirement I would recommend re-wording the description to something like "support interaction with 3rd party accounting system" then the fit criterion could be "data transfer successful using API v3, v4 and v5".
+[Miroslav Cosic] I support making this NFR substantially more specific, as per the majority of comments. One way we can make it more specific is to show how it is specifically related to FR14 in the description and fit criterion. The rationale is fine in this regard.
