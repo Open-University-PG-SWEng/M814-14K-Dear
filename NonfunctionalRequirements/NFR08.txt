@@ -8,3 +8,4 @@ Comments: [Duncan Bain] Initial draft
 [Sachin Prabhu] Looks fine to me.
 [JSB] I agree this is a good non-functional requirement.
 [LMLopez] Good requirement, although it can be more precise in the "user" term used in the fit criterion: 80% of the use base, composed by receptionists, should be able to.. 
+[Miroslav Cosic] To the contrary, I was left with the impression that the receptionists were long-term staff. For such workers, a hard-to-learn but easy-to-use interface is much more desirable than an interface that 80% of people can use with no training. It’s keyboard shortcuts and charms (both of which require reading the manual) vs. step-by-step wizards. Hence, I wish we could reconsider this NFR and its fit criteria. 
