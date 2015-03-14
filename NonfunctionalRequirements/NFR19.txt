@@ -5,5 +5,5 @@ Rationale: This can be considered sensitive data that can provide a competitive 
 Fit Criterion: Only users with the privileges to view the statistics can access them.
 Originator: Carol (Office Manager)
 Comments: 
-
+[Miroslav Cosic] I didn’t get the feeling that the clinic owners are concerned with competition, but the NFR stands on its own anyway, because it’s just common sense that access to statistics needs to be controlled, as much as access to any other data. 
 
