@@ -6,3 +6,4 @@ Fit Criterion:The 3 existing receptionists shall successfully input the patient 
 Originator: Carole (office manager) 
 Comments: [KJF] Draft non functional requirement related to FR17 
 [Miroslav Cosic] I like that the rationale mentions user confidence. We could add a target measure of user confidence in the fit criterion, such as “..., and they shall declare to be 100% confident that their input was correct”.
+[Philip Mularo] I would perhaps change 'The 3 existing receptionists' to 'Receptionists' in the fit criterion, to make the requirement applicable to both the current receptionists and those who might take on the role in future.
