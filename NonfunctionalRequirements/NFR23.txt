@@ -1,0 +1,10 @@
+REQ-ID: NFR23
+Description: The product shall ensure the confidentiality of a patients appointments.
+Type: Security
+Rationale: To ensure the clinic adheres to their legal obligations under the Data Protection Act and reassure patients that their information is safe and secure.
+Fit Criterion: The product shall require a patient to identify themselves prior to displaying their appointments. 
+Originator: Carol (Office Manager)
+Comments: [JSB] Initial draft.
+[Sachin Prabhu] I think the fit criterion should be changed to point to some existing standards related to security. As described, I think the fit criterion is more suitable for a functional requirement. It may also be interpreted as proposing a solution for the requirement.
+[Duncan Bain] I would suggest being more specific with the fit criterion by referencing a specific security protocol or, as Sachin suggested, reference a security standard against which the non-functional requirement can be measured.
+[LMLopez]I do agree with Sachin and Duncan, reference to some security standard or policy may help understand clearly the requirement, and to extend the description of the law "Data Protection Act 1998" to reference it unequivocally (just in case some other "Data Protection Act" is approved in the near future). I would also recommend to use the numeric reference provided in page 393 of MRP: 15 Security Requirements

@@ -1,0 +1,8 @@
+REQ-ID:NFR17
+Description:The product shall be easy to use by receptionists to input the patient treatment record.
+Type:Usability and Humanity
+Rationale: Receptionists are main users of product and need to have confidence in it
+Fit Criterion:The 3 existing receptionists shall successfully input the patient treatment record on first attempt after being shown the process once
+Originator: Carole (office manager) 
+Comments: [KJF] Draft non functional requirement related to FR17 
+[Miroslav Cosic] I like that the rationale mentions user confidence. We could add a target measure of user confidence in the fit criterion, such as “..., and they shall declare to be 100% confident that their input was correct”.

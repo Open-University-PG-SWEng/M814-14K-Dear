@@ -1,0 +1,15 @@
+REQ-ID: NFR01
+Description: The product shall perform FR01 fast enough.
+Type: 12
+Rationale: To avoid delays between apointment offerings.
+Fit criterion: The product shall retrieve the required information in less than 3 seconds for 90% of queries. No response shall take longer than 5 seconds.
+Originator: Carol (Office Manager)
+Comments: [LMLopez] Initial draft
+[Ken King] This is good. My only comment is that the description is brief and means that you have to look up FR01 to understand it.
+[Giovanni Macciocu] I think this is good. Minor remark regarding the  rationale. I think the rationale should be related to a certain service level the company wants to offer, not the fact that a patient would not tolerate long delays, therefore I would refrase the rationale to something like "Avoid delays between apointment offerings"
+[Sachin Prabhu] I agree with Ken. I would like to see a better description so that developers do not have to lookup FR01 to understand what is rqired. The specified range is good but I would like it to be more consistent when using specifying numbers either in numeral form or word form(3 and five in the fit criterion above.)
+[Duncan Bain] I agree with previous comments about using a better description.
+[JSB] I also agree with the previous comments about including more in the description and being consistent on the numerical specification.
+[LMLopez] Thanks guys, I will rephrase the rationale (thanks Giovanni) and fix numerical specification to be more consistent, but I will keep the reference to FR01 in the description, making NFR01 dependent of FR01, because if it is modified or deleted for whathever reason, I still want to perform (or not) the action described in the functional requirement, not the copied text in the non-functional one. This in my experience a much better approach, avoiding confussions, and clearly overcomes the minor inconveniences of having to consult the original reference from time to time. 
+[Miroslav Cosic] Now that the NFR has been revised, it looks fine indeed. However, I would have sided with colleagues arguing for duplicating the text (ideally, through a mechanism where the FR’s text is automatically “mirrored” in the NFR). Requirements become numerous very quickly and then it becomes quite inconvenient to look up the original text all the time.
+[Philip Mularo] I agree with Miroslav that the revised requirement looks good. The one thing I spotted was a typo in the rationale - it says 'apointment' rather than 'appointment'.
