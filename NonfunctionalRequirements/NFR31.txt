@@ -5,4 +5,5 @@ Rationale: A patient's address is a data item that must be kept confidential (se
 Fit Criterion: The product shall comply with sections 7.7.6 (Network security management) and 7.7.8 (Exchanges of information) of BS EN ISO 27799:2008 
 Originator: This requirement is intended to satisfy legislation, specifically principle 7 of the Data Protection Act (1998), as suggested in the Department of Health's NHS Information Governance document
 Comments: [Miroslav Cosic] Initial draft.
-
+[Philip Mularo] I feel this is a strong NFR. I would suggest moving the text currently in the originator section to the rationale, as I think the originator needs to be the person who suggested the requirement.
+[Glen Pinner] The description and rationale refer to patients' address information. Is that the only data exchanged? Otherise both rationale and fit criterion are excellent. I see the standard is for sale from doing a quick Google search so unaware of what it contains.

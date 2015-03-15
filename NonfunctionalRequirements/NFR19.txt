@@ -6,4 +6,5 @@ Fit Criterion: Only users with the privileges to view the statistics can access 
 Originator: Carol (Office Manager)
 Comments: 
 [Miroslav Cosic] I didn’t get the feeling that the clinic owners are concerned with competition, but the NFR stands on its own anyway, because it’s just common sense that access to statistics needs to be controlled, as much as access to any other data. 
-
+[Philip Mularo] I would suggest maybe being more specific about which statistics this NFR applies to in the description and fit criterion i.e. 'statistics about patients who miss appointments' as mentioned in FR19, which would tie in with the idea of the sensitivity of the data mentioned in the rationale.
+[Glen Pinner] The description refers to missing appointments statistics so this could be mentioned. Agree that the data is potentially sensitive and should be kept secure though I'm not sure how this could be used for competitive advantage. Refer to the Data Protection At, 1998 in the rationale. The fit criterion for security NFRs needs to mention a security standard to protect yourself.
