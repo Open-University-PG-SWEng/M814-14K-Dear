@@ -5,4 +5,5 @@ Rationale: To ensure the confidentiality of patient related information is not c
 Fit Criterion : An authenticated patient must only be able to view their appointments, and not the appointments of any other patient.
 Originator: Carol (Office Manager)
 Comments: [Ben Green] Initial Draft.
+[Ken King] Perhaps the fit criterion could adhere to a relevant security standard
 

@@ -7,3 +7,4 @@ Originator: This requirement is intended to satisfy legislation, specifically pr
 Comments: [Miroslav Cosic] Initial draft.
 [Philip Mularo] I feel this is a strong NFR. I would suggest moving the text currently in the originator section to the rationale, as I think the originator needs to be the person who suggested the requirement.
 [Glen Pinner] The description and rationale refer to patients' address information. Is that the only data exchanged? Otherise both rationale and fit criterion are excellent. I see the standard is for sale from doing a quick Google search so unaware of what it contains.
+[Ken King] - This is good. Just need to change the originator as mentioned by Philiop Mularo.

@@ -11,3 +11,4 @@ Comments: [JSB] Initial draft.
 [Miroslav Cosic] To make the fit criterion more specific: “The product shall comply with section 7.8 (Access control) of BS EN ISO 27799:2008”
 [Philip Mularo] I support the suggestions made above to specify a security standard in the fit criterion: this would reinforce the reference to legal obligations under the Data Protection Act made in the rationale. Spotted a small typo - a missing apostrophe in 'patients' in the description.
 [Glen Pinner] The description is a global NFR yet the fit criterion is with respect to FR23. Possibly amend the fit criterion to specify when the patient is accessing the website? Agree with other comments regarding DPA 1998 and mention of security standards.
+[Ken King  I agree with the other comments that the fit criterion could adhere to a relevant security standard
