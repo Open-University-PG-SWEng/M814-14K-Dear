@@ -6,5 +6,6 @@ Fit Criterion:	The system should be able to generate a list of patients who need
 Originator:	Elly Kelly
 Comments: [EK] Derived from FR16 The product should be able to generate a daily list of patients whose appointments are in less than four working day's time, sorted by date and time, which includes the patient's postal address, email and phone details [intended to be used by receptionists to phone/email or send patients appointment reminders]
 [LMLopez] Good requirement, although I would recommend to include it in the description: "The list of patients referred in FR16 should be quick and easy to generate", and also using the numeric reference 11 for "Usability and Humanity" requirements (p.393 MRP). Good use of comments to clarify reference to original requirement. Maybe also some reference to usability guidelines to justify your "1 click" fit criterion (although it may be part of the supporting materials section"
+[Glen Pinner] The description is fine provided it is a user who requests the generation of the list. This could also be a time-triggered functional requirement so perhaps add by the receptionists or whoever else may wish to generate the list. In the fit criterion "a single click" may be difficult to justify but otherwise it is fine.
 
 

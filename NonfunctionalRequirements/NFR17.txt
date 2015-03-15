@@ -5,3 +5,4 @@ Rationale: Receptionists are main users of product and need to have confidence i
 Fit Criterion:The 3 existing receptionists shall successfully input the patient treatment record on first attempt after being shown the process once
 Originator: Carole (office manager) 
 Comments: [KJF] Draft non functional requirement related to FR17 
+[Glen Pinner] In the fit criterion just stating the receptionists is enough, i.e. not the "3 existing" as there may be new receptionists. Also think the fit criterion is too harsh expecting everyone to successfully input data on first attempt as there is no allowance for error. Possibly rephrase along the lines of the receptionists shall be able to input patient treatment records after initial training.

@@ -5,5 +5,6 @@ Rationale: This can be considered sensitive data that can provide a competitive 
 Fit Criterion: Only users with the privileges to view the statistics can access them.
 Originator: Carol (Office Manager)
 Comments: 
+[Glen Pinner] The description refers to missing appointments statistics so this could be mentioned. Agree that the data is potentially sensitive and should be kept secure though I'm not sure how this could be used for competitive advantage. Refer to the Data Protection At, 1998 in the rationale. The fit criterion for security NFRs needs to mention a security standard to protect yourself.
 
 

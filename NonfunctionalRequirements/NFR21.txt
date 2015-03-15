@@ -9,3 +9,4 @@ Comments: [Ken King] Initial draft.
 [Sachin Prabhu] This is a functional requirement. We need to document a non functional requirement.
 [Duncan Bain] A good non-functional requirement. I agree with Luismi's comment.
 [JSB] I also agree with Luismi's comment, but other than that it's a good non-functional requirement.
+[Glen Pinner] Only comment is regarding the description - possibly reword along the lines of ensuring that appointments are booked so that therapists are obliged to take breaks. Good fit criterion.
