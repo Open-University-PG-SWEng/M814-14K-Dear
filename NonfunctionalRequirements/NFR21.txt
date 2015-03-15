@@ -11,3 +11,4 @@ Comments: [Ken King] Initial draft.
 [JSB] I also agree with Luismi's comment, but other than that it's a good non-functional requirement.
 [Miroslav Cosic] Another vote to keep this as a NFR and to change the wording as Lusimi proposed. The product can only ensure that legally required breaks are scheduled, but it cannot stop people from working.
 [Philip Mularo] Me too - I agree with Luismi's proposed rephrasing of the description of this NFR.
+[Glen Pinner] Only comment is regarding the description - possibly reword along the lines of ensuring that appointments are booked so that therapists are obliged to take breaks. Good fit criterion.

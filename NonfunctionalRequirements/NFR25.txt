@@ -10,4 +10,5 @@ Comments:
 [JSB] I agree with Duncan, I would include some time based limit in the fit criterion.
 [LMLopez] I agree with Duncan, it is unclear whether requirement refers to performance or usability. I would also recommend to use the numeric reference in page 393 of MRP for Type: 12 Performance, or 11 Usability and humanity
 [Miroslav Cosic] Once again, we might need to separate the “quick” criterion from the “easy” criterion and have two NFRs. In this particular case, the description and rationale both tend towards “quick” while the fit criterion tends towards “easy”. 
-[Philip Mularo] As mentioned by others the description, type and rationale focus on performance, while the fit criterion uses number of actions as its measure - I agree with Duncan's and JSB's feeling that a time measure would be more appropriate in the fit criterion.  
+[Philip Mularo] As mentioned by others the description, type and rationale focus on performance, while the fit criterion uses number of actions as its measure - I agree with Duncan's and JSB's feeling that a time measure would be more appropriate in the fit criterion.
+[Glen Pinner] As the description uses the word "quickly" this implies a time-based measurement in fit criterion. The fit criterion as it stands relates to usability.
