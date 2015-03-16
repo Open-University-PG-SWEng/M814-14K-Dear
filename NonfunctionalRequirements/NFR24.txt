@@ -19,3 +19,4 @@ Originator: Carol (Office Manager)
 Comments: [Jonathan Bullock]
 -------------
 [Kevin Faulkner] Agree with others first part of description is not required and can be moved into another NFR. Either that or add an unauthorised access test to fit criterion
+[Paul Wilcox]I agree with the other comments. The fit criteria could be shortened to leave out everything after the ,
