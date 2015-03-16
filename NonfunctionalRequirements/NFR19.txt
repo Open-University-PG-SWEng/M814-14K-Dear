@@ -12,3 +12,4 @@ Comments:
 [Ben Green] First comment should be from the originator stating the action, i.e. first NFR draft created etc.
 I actually think the overall wording of this NFR is adequate, apart from the supposed risk of competitors accessing patient information, as any breach in the local confidentially policy is a problem, regardless of who the beneficiary might be.
 I'm not too concerned with the absence of security standards within this NFR. It might be more appropriate to create a unique NFR solely for the purpose of qualifying the need to prevent unauthorised access with a particular security standard, to which all dependant NFRs could refer.
+[Kevin Faulkner] Fit criterion ambiguous, 'access'  has many meanings, stick with 'view' which ties to 'display' in description. Agree do not need 'competitive advantage' part in rationale

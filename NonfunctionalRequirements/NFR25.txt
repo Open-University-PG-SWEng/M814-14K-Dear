@@ -14,3 +14,4 @@ Comments:
 [Glen Pinner] As the description uses the word "quickly" this implies a time-based measurement in fit criterion. The fit criterion as it stands relates to usability.
 [Ken King] I agree that a time limit e.g. within 60 seconds would be appropriate for the fit criterion
 [Ben Green] I agree that there seems to be some ambiguity between ease of use and speed here. Aside to that, I actually like the Fit Criterion as I think as a measure of 'ease of use', the number of steps required to complete a task should result in a product that is consistent and easy to  learn. So while the overall speed might be a concern during busy times, so too is the ease of use, and the number of overall steps.
+[Kevin Faulkner] As per others, fit criterion is usability, rest is performance. Either keep fit criterion (which agree with Ben I like) and chnage rest of it for usability or change fit criterion and keep rest of it

@@ -14,3 +14,4 @@ Comments: [LMLopez] Initial draft
 [Miroslav Cosic] Now that the NFR has been revised, it looks fine indeed. However, I would have sided with colleagues arguing for duplicating the text (ideally, through a mechanism where the FR’s text is automatically “mirrored” in the NFR). Requirements become numerous very quickly and then it becomes quite inconvenient to look up the original text all the time.
 [Philip Mularo] I agree with Miroslav that the revised requirement looks good. The one thing I spotted was a typo in the rationale - it says 'apointment' rather than 'appointment'.
 [Glen Pinner] It might be better to enhance the description to reflect the text of the functional requirement but still refer to FR01. Not sure of the meaning of the rationale. Fit criterion looks fine.
+[Kevin Faulkner] Can fit criterion be simplified, if 5 seconds is acceptable 10% of time then is it acceptable always? how about just specifying range 0-5 seconds or just less than 5 seconds 

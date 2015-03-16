@@ -17,3 +17,4 @@ Rationale: To provide the client the ability to remind themselves when their upc
 Originator: Carol (Office Manager)
 Comments: [Jonathan Bullock]
 -------------
+[Kevin Faulkner] Agree with others first part of description is not required and can be moved into another NFR. Either that or add an unauthorised access test to fit criterion

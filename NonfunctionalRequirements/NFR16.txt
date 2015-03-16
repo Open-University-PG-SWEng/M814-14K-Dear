@@ -13,3 +13,4 @@ Comments: [EK] Derived from FR16 The product should be able to generate a daily 
 [Ben Green] This is a good NFR and I appreciate the addition of the parent FR, although my personal preference would always be to check the FR directly.
 I actually think the description of this NFR is more of a rationale statement. And the first part of the current rationale could be the description of a unique NFR.
 If the report is going to be generated at the beginning of the day, i.e. just before the office opens, does it need to be 'quick', assuming this term is qualifying the speed that this report is generated ?
+[Kevin Faulkner] Click defines inteface technology, replace with action. 'Quick' appears in the description but no meaqsure of this in fit criteria. I would remove 'Quick' unless speed is more important than usability in which case change the fit and type to measure the speed/performance
