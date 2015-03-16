@@ -8,3 +8,12 @@ Comments: [Ben Green] Initial Draft.
 [Ken King] Perhaps the fit criterion could adhere to a relevant security standard
 [Miroslav Cosic] This looks like it could be split into two security NFRs at the "and". Fit criterion is OK for the second half of the description. Rationale seems to match the first half of the description. Propose to mention section 7.8 (Access control) of BS EN ISO 27799:2008 in fit criterion.
 [Giovanni Macciocu] Agree with Cosic, this is not an atomic requirement, it can be split into 2 NFRs.
+[Ben Green] FR24 seems to have disappeared from origin-master, but I still have a copy in my local branch from TMA02, therefore it might help everyone understand NFR24 if I place the contents of FR24 below:
+-------------
+REQ-ID: FR24
+Description: The product shall allow patients to identify themselves to the clinic's web site and see when their appointments are.
+Type: Functional
+Rationale: To provide the client the ability to remind themselves when their upcoming appointments are and reduce the risk of 'no-shows'.
+Originator: Carol (Office Manager)
+Comments: [Jonathan Bullock]
+-------------
