@@ -7,3 +7,4 @@ Originator: Carol (Office Manager)
 Comments: [Ben Green] Initial Draft.
 [Ken King] Perhaps the fit criterion could adhere to a relevant security standard
 [Miroslav Cosic] This looks like it could be split into two security NFRs at the "and". Fit criterion is OK for the second half of the description. Rationale seems to match the first half of the description. Propose to mention section 7.8 (Access control) of BS EN ISO 27799:2008 in fit criterion.
+[Giovanni Macciocu] Agree with Cosic, this is not an atomic requirement, it can be split into 2 NFRs.
