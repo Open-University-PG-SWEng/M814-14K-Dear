@@ -19,3 +19,4 @@ Originator: Carol (Office Manager)
 Comments: [Jonathan Bullock]
 -------------
 [Kevin Faulkner] Agree with others first part of description is not required and can be moved into another NFR. Either that or add an unauthorised access test to fit criterion
+[Elly Kelly] This is similar to NFR23 in that you could reverse this and simply state that it should not be possible for a patient to view any other patients details, which would allow for a more open and potentially innovative solution.
