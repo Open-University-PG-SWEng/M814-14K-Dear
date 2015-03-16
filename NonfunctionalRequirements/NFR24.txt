@@ -19,4 +19,8 @@ Originator: Carol (Office Manager)
 Comments: [Jonathan Bullock]
 -------------
 [Kevin Faulkner] Agree with others first part of description is not required and can be moved into another NFR. Either that or add an unauthorised access test to fit criterion
+<<<<<<< HEAD
 [Elly Kelly] This is similar to NFR23 in that you could reverse this and simply state that it should not be possible for a patient to view any other patients details, which would allow for a more open and potentially innovative solution.
+=======
+[Paul Wilcox]I agree with the other comments. The fit criteria could be shortened to leave out everything after the ,
+>>>>>>> 3aa4522b96e28e6df4e12823844e065a7e2fadfc
