@@ -14,8 +14,6 @@ I actually think the overall wording of this NFR is adequate, apart from the sup
 I'm not too concerned with the absence of security standards within this NFR. It might be more appropriate to create a unique NFR solely for the purpose of qualifying the need to prevent unauthorised access with a particular security standard, to which all dependant NFRs could refer.
 [LMLopez] To be consistent with other requirement definitions, please change the type to the numbering format in page 393 of the standard: 15 for Security. I do agree with Philip about being more concrete about which statistics the requirement refers to (just in case other types of statistics were added in the future). In my view no security standards applies to the requirement, nor does data protection because you're referring to a different security risks (in a word, data protection should be addressed in a separate requirement, in my view).
 [Kevin Faulkner] Fit criterion ambiguous, 'access'  has many meanings, stick with 'view' which ties to 'display' in description. Agree do not need 'competitive advantage' part in rationale
-<<<<<<< HEAD
 [Elly Kelly] Hm. What you are asking for is the ability to identify individual users, assign these users particular access priviledges, and prevent others from gaining access to these user accounts, which is more in keeping with a suite of FRs aimed at system security imho. An NFR relating to security would be more along the lines of "And an intruder is unable to gain access to the system after x minutes" or something like that. 
-=======
 [Paul Wilcox] I agree with the others I don't think there is a competitive advantage issue, unless another clinic wants to poach patients who miss appointments. Maybe the rationale is simple such as to stop unauthorised persons seeing patient statistics, that may be too simple.
->>>>>>> 3aa4522b96e28e6df4e12823844e065a7e2fadfc
+
