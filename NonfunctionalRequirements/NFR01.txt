@@ -15,3 +15,4 @@ Comments: [LMLopez] Initial draft
 [Philip Mularo] I agree with Miroslav that the revised requirement looks good. The one thing I spotted was a typo in the rationale - it says 'apointment' rather than 'appointment'.
 [Glen Pinner] It might be better to enhance the description to reflect the text of the functional requirement but still refer to FR01. Not sure of the meaning of the rationale. Fit criterion looks fine.
 [Kevin Faulkner] Can fit criterion be simplified, if 5 seconds is acceptable 10% of time then is it acceptable always? how about just specifying range 0-5 seconds or just less than 5 seconds 
+[Elly Kelly] I'm with Kevin on this - No response shall take longer than 5 seconds seems acceptable enough as a speed critera.
