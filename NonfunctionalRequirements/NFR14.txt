@@ -15,3 +15,4 @@ Comments: [Glen Pinner] Initial draft.
 [Philip Mularo] I agree with Duncan's suggestion that 'interface' rather than 'interact' would be more appropriate in the description, and to specify the elements involved in inter-application interfaces as listed on MRP page 448.
 [Ben Green] I too feel that the description of this NFR would make a valid FR. One could argue that the mechanism for getting the financial information into the finance system isn't itself an NFR for the generation of the invoice, it's an NFR for the interfacing/integration of the appointments system and finance system.
 [Kevin Faulkner] An interface to the accounts system is a functional requirement as others have stated, the requiremnt and fitness shoudl focus on an aspect of the interface, security, performance, accuracy etc
+[Elly Kelly] On first reading, I definitely thought this was a functional requirement. 
