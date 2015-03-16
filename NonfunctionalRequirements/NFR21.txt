@@ -16,10 +16,5 @@ Comments: [Ken King] Initial draft.
 Overall I think it's a really good NFR, as building functionality into the product that helps the business meet legal obligations is of great benefit to the customer, and demonstrates good creativeness in design.
 Perhaps the Fit Criterion should just declare an absolute time interval to prevent any ambiguity. Clearly the leglislation might be subject to change, but this might lead to uncertainty, and arguably developers just want fixed values to work on.
 [Kevin Faulkner] Fit Criterion is written like a requirement, prefer something like 'appointment schedule will comply...'. Is it product requirement or requirement of business to comply with working time regulations. If there is a business policy it is not unreasonable to expect this to comply with any legal obligations, if not then does not need to be in rationale. 
-<<<<<<< HEAD
 [Elly Kelly] I don't have any problems with this requirement.
-=======
 [Paul Wilcox] I aree with Luismi. Its a good non funtional requirement but the description needs to be more defined so its distinct from the FR
-
-
->>>>>>> 3aa4522b96e28e6df4e12823844e065a7e2fadfc
