@@ -1,7 +1,7 @@
 REQ-ID: NFR01
-Description: The product shall perform FR01 fast enough.
+Description: The product shall perform FR01 fast enough
 Type: 12
-Rationale: To avoid delays between apointment offerings.
+Rationale: To avoid delays between appointment offerings.
 Fit criterion: The product shall retrieve the required information in less than 3 seconds for 90% of queries. No response shall take longer than 5 seconds.
 Originator: Carol (Office Manager)
 Comments: [LMLopez] Initial draft
@@ -15,4 +15,5 @@ Comments: [LMLopez] Initial draft
 [Philip Mularo] I agree with Miroslav that the revised requirement looks good. The one thing I spotted was a typo in the rationale - it says 'apointment' rather than 'appointment'.
 [Glen Pinner] It might be better to enhance the description to reflect the text of the functional requirement but still refer to FR01. Not sure of the meaning of the rationale. Fit criterion looks fine.
 [Kevin Faulkner] Can fit criterion be simplified, if 5 seconds is acceptable 10% of time then is it acceptable always? how about just specifying range 0-5 seconds or just less than 5 seconds 
-[Paul Wilcox]I'm not sure the longer than 5 seconds is required. Can it be guaranteed the developers can deliver a maximum 5 second response for all requests. I think have a 3-5 second response for 99% of requests is more achievable.
+[Paul Wilcox] I'm not sure the longer than 5 seconds is required. Can it be guaranteed the developers can deliver a maximum 5 second response for all requests. I think have a 3-5 second response for 99% of requests is more achievable.
+[LMLopez] Thanks again. Sorry for the inconvenience of not having the original text. I've corrected the typo in the rationale (thanks Philip). Regarding fit criterion, I've chosen to specify a "normal" response time of 3 seconds, which is quite common in the web applications we developed in-house, but allowing also a certain tolerance, therefore the 10% of the time allowing a response of less than five seconds, which is the absolute limit (i.e. during backup maintenance windows, or other heavy workload conditions it would be expensive to require the same performance). Hope this helps clarify fit criterion. Regarding enhancing the description, I've tried to rewrite it coherently several times without success, it is either a copy of FR01, which in my view is totally inadequate, or is so confusing than may be even worse than leaving the original reference, so in the end I've left it as it was. (Although of course I'm still open to suggestions). Many thanks.
