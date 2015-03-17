@@ -1,10 +1,10 @@
 REQ-ID:NFR17
 Description:The product shall be easy to use by receptionists to input the patient treatment record.
-Type:Usability and Humanity
-Rationale: Receptionists are main users of product and need to have confidence in it
-Fit Criterion:The 3 existing receptionists shall successfully input the patient treatment record on first attempt after being shown the process once
+Type: 11. Usability and Humanity.
+Rationale: Receptionists are main users of product and need to be confident in using it to input the patient treatment record.
+Fit Criterion:80% of receptionists shall successfully input the patient treatment record on their first attempt after being shown the process once.
 Originator: Carole (office manager) 
-Comments: [KJF] Draft non functional requirement related to FR17 
+Comments: [KJF] Draft non functional requirement related to FR17.
 [Miroslav Cosic] I like that the rationale mentions user confidence. We could add a target measure of user confidence in the fit criterion, such as “..., and they shall declare to be 100% confident that their input was correct”.
 [Philip Mularo] I would perhaps change 'The 3 existing receptionists' to 'Receptionists' in the fit criterion, to make the requirement applicable to both the current receptionists and those who might take on the role in future.
 [Glen Pinner] In the fit criterion just stating the receptionists is enough, i.e. not the "3 existing" as there may be new receptionists. Also think the fit criterion is too harsh expecting everyone to successfully input data on first attempt as there is no allowance for error. Possibly rephrase along the lines of the receptionists shall be able to input patient treatment records after initial training.
@@ -12,3 +12,4 @@ Comments: [KJF] Draft non functional requirement related to FR17
 [Ben Green] Perhaps the rationale should instead state "...need to have confidence in remembering how to use it". Just stating 'confidence' on its own could mean something else, i.e. confidence in the accuracy and timeliness of the information, for example.
 [LMLopez] Good requirement, in my view, although I agree with Philip, "receptionists" may be more open to changes in environment of the application. I would recommend to remove any ambiguity from the rationale (as Ben suggested). Maybe your rationale can be extended to non-skilled users i.e. "entering patient treatment should be obvious even for users non-familiar with technology and the application". Type would be more consistent if specified numerically, as per page 393 of the set book: 11 for Usability and Humanity requirements.
 [Paul Wilcox] The rationale may be a little ambiguous. Do the receptionists need confidence in the system; as in trust it to do what the system is meant to do or do they need to have confidence in using the system; as in they are confident in using the system. 
+[Kevin Faulkner] Thankyou all for inputs; Added number to type; tried to remove ambiguity from rationale (should be confidence in using product). Not sure on recptionists, cannot test against future recptionists which is why I used existing 3, but bowing to pressure; reduce to fit criterion to 80% to allow some margin for error
