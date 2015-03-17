@@ -1,8 +1,8 @@
 REQ-ID: NFR19
-Description: The product shall only display statistics to authorised users.
-Type: Security
-Rationale: This can be considered sensitive data that can provide a competitive advantage, so it should only be displayed to certain users.
-Fit Criterion: Only users with the privileges to view the statistics can access them.
+Description: The product shall only display the statistics to authorised users (this applies to all the data generated in FR19). 
+Type: Security (15)
+Rationale: This can be considered sensitive data that should only be displayed to certain users. Refer to Data Protection Act, 1998.
+Fit Criterion: Only users with the privileges to view the statistics can view them.
 Originator: Carol (Office Manager)
 Comments: 
 [Miroslav Cosic] I didn’t get the feeling that the clinic owners are concerned with competition, but the NFR stands on its own anyway, because it’s just common sense that access to statistics needs to be controlled, as much as access to any other data. 
