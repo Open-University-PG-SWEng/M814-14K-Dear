@@ -21,3 +21,4 @@ Comments: [Jonathan Bullock]
 [Kevin Faulkner] Agree with others first part of description is not required and can be moved into another NFR. Either that or add an unauthorised access test to fit criterion
 [Elly Kelly] This is similar to NFR23 in that you could reverse this and simply state that it should not be possible for a patient to view any other patients details, which would allow for a more open and potentially innovative solution.
 [Paul Wilcox]I agree with the other comments. The fit criteria could be shortened to leave out everything after the ,
+[Philip Mularo] I agree with the feeling that this could be made into 2 different NFRs, one focusing on only authorised users having access to the clinic's timetable, and the other on patients only being able to view their own appointments. The fit criterion seems a good match for the second of these.
