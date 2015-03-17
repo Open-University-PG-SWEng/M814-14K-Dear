@@ -17,3 +17,4 @@ Comments: [Duncan Bain] Initial draft
 [Giovanni Macciocu] I think this is good. In addition to the provided comments I would like to add that I think that irrelevant of the staff type (part-time office staff with average exp ..), from an application with relatively low complexity, a certain usability level might be expected.
 [Kevin Faulkner] I agree with Miroslav, easy to use is more important than easy to learn to improve the efficiency of the appointments system. 
 [Paul Wilcox] I think the fit criteria is ok but it should contain some amount of training even if its a 30 minute exercise that tells the user what each screen is for, if there is multiple screens. Its also likely that there will be staff turnover and so current staff skill level should be balanced against potential new employees.
+[James Oram] I would have added a time limit in the acceptance criterion, and would have allowed the use of training materials within that time limit.
