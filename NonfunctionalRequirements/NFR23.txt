@@ -1,18 +1,35 @@
 REQ-ID: NFR23
 Description: The product shall ensure the confidentiality of a patients appointments.
-Type: Security
-Rationale: To ensure the clinic adheres to their legal obligations under the Data Protection Act and reassure patients that their information is safe and secure.
-Fit Criterion: The product shall require a patient to identify themselves prior to displaying their appointments. 
+Type: 15 - Security
+Rationale: To ensure the clinic adheres to their legal obligations under the Data 
+	Protection Act 1998 and reassure patients that their information is safe and secure.
+Fit Criterion: The product shall ensure there is zero appointment information leakage 
+	between patients authenticating with the product (i.e. web site) and accessing their 
+	appointment information by complying with section 7.8 (Access control) of 
+	BS EN ISO 27799:2008.
 Originator: Carol (Office Manager)
+
 Comments: [JSB] Initial draft.
-[Sachin Prabhu] I think the fit criterion should be changed to point to some existing standards related to security. As described, I think the fit criterion is more suitable for a functional requirement. It may also be interpreted as proposing a solution for the requirement.
-[Duncan Bain] I would suggest being more specific with the fit criterion by referencing a specific security protocol or, as Sachin suggested, reference a security standard against which the non-functional requirement can be measured.
-[LMLopez]I do agree with Sachin and Duncan, reference to some security standard or policy may help understand clearly the requirement, and to extend the description of the law "Data Protection Act 1998" to reference it unequivocally (just in case some other "Data Protection Act" is approved in the near future). I would also recommend to use the numeric reference provided in page 393 of MRP: 15 Security Requirements
-[Miroslav Cosic] To make the fit criterion more specific: “The product shall comply with section 7.8 (Access control) of BS EN ISO 27799:2008”
-[Philip Mularo] I support the suggestions made above to specify a security standard in the fit criterion: this would reinforce the reference to legal obligations under the Data Protection Act made in the rationale. Spotted a small typo - a missing apostrophe in 'patients' in the description.
-[Glen Pinner] The description is a global NFR yet the fit criterion is with respect to FR23. Possibly amend the fit criterion to specify when the patient is accessing the website? Agree with other comments regarding DPA 1998 and mention of security standards.
+[Sachin Prabhu] I think the fit criterion should be changed to point to some existing standards related to security. As described, I think the fit 
+	criterion is more suitable for a functional requirement. It may also be interpreted as proposing a solution for the requirement.
+[Duncan Bain] I would suggest being more specific with the fit criterion by referencing a specific security protocol or, as Sachin suggested, 
+	reference a security standard against which the non-functional requirement can be measured.
+[LMLopez]I do agree with Sachin and Duncan, reference to some security standard or policy may help understand clearly the requirement, and to extend 
+	the description of the law "Data Protection Act 1998" to reference it unequivocally (just in case some other "Data Protection Act" is approved in 
+	the near future). I would also recommend to use the numeric reference provided in page 393 of MRP: 15 Security Requirements
+[Miroslav Cosic] To make the fit criterion more specific: "The product shall comply with section 7.8 (Access control) of BS EN ISO 27799:2008"
+[Philip Mularo] I support the suggestions made above to specify a security standard in the fit criterion: this would reinforce the reference to 
+	legal obligations under the Data Protection Act made in the rationale. Spotted a small typo - a missing apostrophe in 'patients' in the description.
+[Glen Pinner] The description is a global NFR yet the fit criterion is with respect to FR23. Possibly amend the fit criterion to specify when the 
+	patient is accessing the website? Agree with other comments regarding DPA 1998 and mention of security standards.
 [Ken King  I agree with the other comments that the fit criterion could adhere to a relevant security standard
-[Ben Green] I agree with previous comments - my take on this is that the description could be more specific about which part of the overall product or underlying workflow is the focus of this confidentiality concern. For example, is it a more robust aunthentication mechanism, or a more secure web service (without specifying any solutions of course).
-[Kevin Faulkner] Does the legal obligation in the rationale make this a leagl requirement? The fit criterion is requiremnt, needs to be more specific, 'identify' is ambiguous, one of the other NFRs uses 'authenticated', that might be better here.  
-[Elly Kelly] Turning it on its head, why not say "It should not be possible for a patient to view the information of any other patients", which avoids the thorny issue of explictly stating how this shall be done, and keeping it more open to clever solutions.
-[Paul Wilcox] This may be out of scope for the application. Its likely there is data protection in place at the moment and a way the office staff use to identify patients and how can the proposed system enforce if its the receptionists making the decision. Maybe the fit crierion is to make sure that the system is protected as best as possible from unauthorised intrusions.
+[Ben Green] I agree with previous comments - my take on this is that the description could be more specific about which part of the overall product 
+	or underlying workflow is the focus of this confidentiality concern. For example, is it a more robust aunthentication mechanism, or a more secure 
+	web service (without specifying any solutions of course).
+[Kevin Faulkner] Does the legal obligation in the rationale make this a leagl requirement? The fit criterion is requiremnt, needs to be more 
+	specific, 'identify' is ambiguous, one of the other NFRs uses 'authenticated', that might be better here.  
+[Elly Kelly] Turning it on its head, why not say "It should not be possible for a patient to view the information of any other patients", which 
+	avoids the thorny issue of explictly stating how this shall be done, and keeping it more open to clever solutions.
+[Paul Wilcox] This may be out of scope for the application. Its likely there is data protection in place at the moment and a way the office staff 
+	use to identify patients and how can the proposed system enforce if its the receptionists making the decision. Maybe the fit crierion is to 
+	make sure that the system is protected as best as possible from unauthorised intrusions.
