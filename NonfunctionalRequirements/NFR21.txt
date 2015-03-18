@@ -1,10 +1,10 @@
 ﻿REQ-ID:NFR21
-Description: The product shall ensure that the therapists take their legally required breaks
+Description: The product shall ensure that the scheduling of therapists' appointments complies with the legal requirements for workers to take breaks. 
 Type: Legal Requirements
 Rationale: The business has its own policy on employee breaks which will determine the scheduling of appointments however the product must also ensure that these must comply with their legal obligations. 
 Fit Criterion: The  product shall schedule appointments at intervals that ensure that the business complies with working hours requirements as set out at in the Working Time Regulations 1998 Act  (http://www.legislation.gov.uk/uksi/1998/1833/contents/made).
 Originator: Carol (Office Manager)
-Comments: [Ken King] Initial draft.
+Comments: [Ken King] 
 [Luismi López] Good work, although I would rephrase the description to be more precise: the product shall ensure therapists' scheduled appointments fully comply with their legally required breaks.
 [Sachin Prabhu] This is a functional requirement. We need to document a non functional requirement.
 [Duncan Bain] A good non-functional requirement. I agree with Luismi's comment.
@@ -18,3 +18,4 @@ Perhaps the Fit Criterion should just declare an absolute time interval to preve
 [Kevin Faulkner] Fit Criterion is written like a requirement, prefer something like 'appointment schedule will comply...'. Is it product requirement or requirement of business to comply with working time regulations. If there is a business policy it is not unreasonable to expect this to comply with any legal obligations, if not then does not need to be in rationale. 
 [Elly Kelly] I don't have any problems with this requirement.
 [Paul Wilcox] I aree with Luismi. Its a good non funtional requirement but the description needs to be more defined so its distinct from the FR
+[Ken King] Thanks for your comments. I have modified my requirement accordingly.
