@@ -1,4 +1,4 @@
-﻿REQ-ID: NFR03
+REQ-ID: NFR03
 Description: The product shall allow a quick selection of a new appointment date
 Type: Performance
 Rationale: To keep the time of modifying dates to a minimum
@@ -17,3 +17,4 @@ Comments: [PW] Initial draft
 [Kevin Faulkner] Cannot find anything new, agree remove 'easy'. Agree fit criterion should be actual modification of date and not selection, selection does not impy change. Agree fit criterion needs splitting into two sentences to make clear which part '80% of the time' refers to, is it '5 seconds 80 % of time.'  or '80% of time no new'
 [James Oram] I agree that it would be best to either remove the "easy" part or create separate NFRs for performance and usability.
 [Paul Wilcox] Updated NFR with feedback from the comments.
+[Marcus Wright] Agree with above, but in order to remove the ambiguity it should be split into 2 NFR’s.

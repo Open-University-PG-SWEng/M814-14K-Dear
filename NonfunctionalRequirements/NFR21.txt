@@ -1,4 +1,4 @@
-﻿REQ-ID:NFR21
+REQ-ID:NFR21
 Description: The product shall ensure that the scheduling of therapists' appointments complies with the legal requirements for workers to take breaks. 
 Type: Legal Requirements
 Rationale: The business has its own policy on employee breaks which will determine the scheduling of appointments however the product must also ensure that these must comply with their legal obligations. 
@@ -19,3 +19,4 @@ Perhaps the Fit Criterion should just declare an absolute time interval to preve
 [Elly Kelly] I don't have any problems with this requirement.
 [Paul Wilcox] I aree with Luismi. Its a good non funtional requirement but the description needs to be more defined so its distinct from the FR
 [Ken King] Thanks for your comments. I have modified my requirement accordingly.
+[Marcus Wright] I agree with Luismi, but otherwise this is a good NFR.

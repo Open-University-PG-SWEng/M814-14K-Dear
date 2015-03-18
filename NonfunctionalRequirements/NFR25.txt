@@ -17,4 +17,4 @@ Comments:
 [Kevin Faulkner] As per others, fit criterion is usability, rest is performance. Either keep fit criterion (which agree with Ben I like) and chnage rest of it for usability or change fit criterion and keep rest of it
 [Elly Kelly] As per above. The initially statement "quickly" suggests a performance NFR, but "no more than 3 actions" suggests a usability NFR. 
 [Paul Wilcox] I agree with the others there is a mix of performance and usability in this NFR. It seems to me that its more a usability requirement from the description, quickly and easily are usualy found near each other, the rationale and the fit criterion. I suggest changing quickly to easily, the type to Usability, I think its described as something else in MRP and finally change the rationale so that it focuses on making the task easier for the receptionists. 
-
+[Marcus Wright] I agree this is a mix of 2 NFRÕs but the fit criterion is good - relating to usability.

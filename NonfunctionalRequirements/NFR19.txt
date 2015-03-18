@@ -16,4 +16,4 @@ I'm not too concerned with the absence of security standards within this NFR. It
 [Kevin Faulkner] Fit criterion ambiguous, 'access'  has many meanings, stick with 'view' which ties to 'display' in description. Agree do not need 'competitive advantage' part in rationale
 [Elly Kelly] Hm. What you are asking for is the ability to identify individual users, assign these users particular access priviledges, and prevent others from gaining access to these user accounts, which is more in keeping with a suite of FRs aimed at system security imho. An NFR relating to security would be more along the lines of "And an intruder is unable to gain access to the system after x minutes" or something like that. 
 [Paul Wilcox] I agree with the others I don't think there is a competitive advantage issue, unless another clinic wants to poach patients who miss appointments. Maybe the rationale is simple such as to stop unauthorised persons seeing patient statistics, that may be too simple.
-
+[Marcus Wright] For me this NFR is not about competitive advantage but should comply with the data protection act.

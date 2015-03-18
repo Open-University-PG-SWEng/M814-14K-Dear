@@ -23,3 +23,4 @@ Comments: [Glen Pinner] Version 1.0.
 [Ben Green] I too feel that the description of this NFR would make a valid FR. One could argue that the mechanism for getting the financial information into the finance system isn't itself an NFR for the generation of the invoice, it's an NFR for the interfacing/integration of the appointments system and finance system.
 [Kevin Faulkner] An interface to the accounts system is a functional requirement as others have stated, the requiremnt and fitness shoudl focus on an aspect of the interface, security, performance, accuracy etc
 [Paul Wilcox] I agree with JBS in his suggested changes.
+[Marcus Wright] I agree that this is not an NFR.  The fit criterion should explain what is considered a successful transfer.
