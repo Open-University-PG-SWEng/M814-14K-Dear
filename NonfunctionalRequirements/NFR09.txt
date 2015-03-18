@@ -17,3 +17,4 @@ Comments: [Giovanni Macciocu] Final Version
 {Kevin Faulkner] Agree with comments on rationale and that existing rationale ishoudl be covered by a functional requirement elsewhere. You could add a rnage of times and/or percentage as suggested by Duncan or perhaps it is fastest enough to avoid duplicate appointment, which is how fast someone can enter an appointment, this is likely shorter than 3 seconds
 [Paul Wilcox]I agree with Miroslav I don't think speed is an issue here. I'd also like to see an addtion to the fit criterion that states the % of times it needs to be this fast like in NFR01.
 [James Oram] I agree that it would be helpful to not have to look up FR09. It would be useful to understand why the acceptance criterion refers to specifically 3 seconds.
+[Marcus Wright] I agree that ease of use should be the priority here.

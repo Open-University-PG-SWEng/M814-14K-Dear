@@ -33,3 +33,4 @@ Comments: [JSB] Initial draft.
 [Paul Wilcox] This may be out of scope for the application. Its likely there is data protection in place at the moment and a way the office staff 
 	use to identify patients and how can the proposed system enforce if its the receptionists making the decision. Maybe the fit crierion is to 
 	make sure that the system is protected as best as possible from unauthorised intrusions.
+[Marcus Wright] I also think that the NFR is global and too vague, although the fit criterion is quite specific in what to measure.

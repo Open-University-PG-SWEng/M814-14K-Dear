@@ -1,4 +1,4 @@
-﻿REQ-ID:NFR11
+REQ-ID:NFR11
 Description: The product shall provide the information within a reasonable amount of time
 Type: Performance
 Rationale: The users of the system are busy and need to access the information as quickly and easily as possible.
@@ -21,3 +21,4 @@ I suggest to remove ambiguity by replacing, "the information" by "any informatio
 {Kevin Faulkner] Agree with other comments, split the fit criteria and remove either the performance or usability part. Update other sections to match  
 [Paul Wilcox] I agree with the others this is too solution bound. I also feel that showing the fields in the order they should be input is solution bound as well, this would be a decision best made by a UI designer as the interface could be grouping things in a mixture of horizontal and vertical groups.
 [James Oram] I agree that this needs more clarification and the justification could be improved.
+[Marcus Wright] I agree with the comments and would update the NFR to specify Patient Information and remove the reference to navigation.
