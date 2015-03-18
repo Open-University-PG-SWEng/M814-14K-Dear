@@ -2,7 +2,7 @@ REQ-ID:NFR08
 Description:The product shall record an appointment in such a way that it will be intuitive for the average office worker.
 Type:Usability
 Rationale:The users are part-time office staff with average experience in using office applications,so the usability of the product should not require any training.
-Fit Criterion:80 % of users should be able to record an appointment without referring to the on-line help or requiring any training.
+Fit Criterion:80 % of users (average office workers)should be able to record an appointment without referring to the on-line help or requiring any training.
 Originator:Carol (Office Manager)
 Comments: [Duncan Bain] Initial draft
 [Sachin Prabhu] Looks fine to me.
@@ -18,3 +18,5 @@ Comments: [Duncan Bain] Initial draft
 [Kevin Faulkner] I agree with Miroslav, easy to use is more important than easy to learn to improve the efficiency of the appointments system. 
 [Paul Wilcox] I think the fit criteria is ok but it should contain some amount of training even if its a 30 minute exercise that tells the user what each screen is for, if there is multiple screens. Its also likely that there will be staff turnover and so current staff skill level should be balanced against potential new employees.
 [James Oram] I would have added a time limit in the acceptance criterion, and would have allowed the use of training materials within that time limit.
+[Duncan Bain] The suggested improvements are: specify the users in the fit criterion; interface should rather be easier to use, eve if it is harder to learn (the requirement actually wants both to be easy, hence the use of the word ‘intuitive’); description should specify who is recording the appointment (the requirement is specific enough in my opinion and is confirmed by Ken); comments about abilities of staff (requirement specifies ‘average office worker’ which would imply a certain level of competence); fit criteria should contain a minimum amount of training required (the requirement specifies that the interface should be intuitive); 
+[Duncan Bain] Changes made: from ’Fit Criterion:80 % of users should…’ to ‘Fit Criterion:80% of users (average office workers) …’ 
