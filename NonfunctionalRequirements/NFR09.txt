@@ -1,10 +1,10 @@
-REQ-ID:NFR09
-Description: The product shall perform FR09 within a reasonable amount of time.
-Type: Performance
-Rationale: Prevent incorrect information regarding the therpist availability.
-Fit Criterion: The therapist schedule must be updated in less than 3 seconds after a new appointment entry.
+REQ-ID: NFR09
+Description: The product shall perform a therapist schedule update within a reasonable amount of time, after the therapist schedule update was issued.
+Type: Speed
+Rationale: Prevent displaying incorrect information regarding the therapist availability.
+Fit Criterion: After a new appointment entry, the therapist schedule must be updated in less than 3 seconds for 90% of the updates. A therapist schedule update may never take longer than 5 seconds.
 Originator: Receptionist
-Comments: [Giovanni Macciocu] Initial draft
+Comments: [Giovanni Macciocu] Final Version
 [Duncan Bain] I would suggest including more of the original requirement description in this description, otherwise one has to go look up the original requirement to know what this non-functional requirement is about. Correct 'therpist' to 'therapist'. The rationale sound like an accuracy requirement while the description refers to a speed requirement. I think you were trying to say that if the therapist schedule is not updated quick enough, the time slot may be taken by someone else also entering an appointment at the same time. I think some other rationale would be more appropriate.
 [JSB] Just to check, it's the receptionist who would be entering the new appointment for the patient with a therapist, and the schedule for the therapist must be display the new appointment within 3 seconds to ensure their un-availability is reflected and a double booking is not made
 [Giovanni Macciocu] @JSB, Yes that is correct.
