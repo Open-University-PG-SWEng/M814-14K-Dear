@@ -23,3 +23,4 @@ Comments: [Jonathan Bullock]
 [Paul Wilcox]I agree with the other comments. The fit criteria could be shortened to leave out everything after the ,
 [Philip Mularo] I agree with the feeling that this could be made into 2 different NFRs, one focusing on only authorised users having access to the clinic's timetable, and the other on patients only being able to view their own appointments. The fit criterion seems a good match for the second of these.
 [Marcus Wright] I agree with Elly, also I don’t think it is necessary to specify ‘other patients’.
+[Delio D'Anna] The requirement seems really important, however I think it should be split in two as tehre is quite a differenc e between authorised users and patients in what they are allowed to do.
