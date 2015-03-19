@@ -1,7 +1,25 @@
 REQ-ID: NFR24
-Description: The product shall ensure that a patient is only authorised to view details of their own appointments.
+Description: The product shall ensure that only authorised users have access to the clinic's timetable of appointments and that an authenticated patient is only authorised to view details of their own appointments.
 Type: 15 (Security)
-Rationale: To ensure the confidentiality of patient related information is not compromised by unauthorised users as this could lead to the clinic being held criminally responsible for a breach of the data protection act.
-Fit Criterion: An authenticated patient must only be able to view their appointments in accordance with section 7.8 (Access control) of BS EN ISO 27799:2008
+Rationale: To ensure the confidentiality of patient related information is not compromised by unauthorised users as this could lead to the clinic being held criminally responsible for a breach in the data protection act.
+Fit Criterion : An authenticated patient must only be able to view their appointments, and not the appointments of any other patient.
 Originator: Carol (Office Manager)
-Comments: [Ben Green] Final Draft.
+Comments: [Ben Green] Initial Draft.
+[Ken King] Perhaps the fit criterion could adhere to a relevant security standard
+[Miroslav Cosic] This looks like it could be split into two security NFRs at the "and". Fit criterion is OK for the second half of the description. Rationale seems to match the first half of the description. Propose to mention section 7.8 (Access control) of BS EN ISO 27799:2008 in fit criterion.
+[Giovanni Macciocu] Agree with Cosic, this is not an atomic requirement, it can be split into 2 NFRs.
+[LMLopez] I agree with Cosic and Giovanni, it will be much clearer if split into two different security requirements. Security standards as the one mentioned by Cosic will be adequate for the first half of it.
+[Ben Green] FR24 seems to have disappeared from origin-master, but I still have a copy in my local branch from TMA02, therefore it might help everyone understand NFR24 if I place the contents of FR24 below:
+-------------
+REQ-ID: FR24
+Description: The product shall allow patients to identify themselves to the clinic's web site and see when their appointments are.
+Type: Functional
+Rationale: To provide the client the ability to remind themselves when their upcoming appointments are and reduce the risk of 'no-shows'.
+Originator: Carol (Office Manager)
+Comments: [Jonathan Bullock]
+-------------
+[Kevin Faulkner] Agree with others first part of description is not required and can be moved into another NFR. Either that or add an unauthorised access test to fit criterion
+[Elly Kelly] This is similar to NFR23 in that you could reverse this and simply state that it should not be possible for a patient to view any other patients details, which would allow for a more open and potentially innovative solution.
+[Paul Wilcox]I agree with the other comments. The fit criteria could be shortened to leave out everything after the ,
+[Philip Mularo] I agree with the feeling that this could be made into 2 different NFRs, one focusing on only authorised users having access to the clinic's timetable, and the other on patients only being able to view their own appointments. The fit criterion seems a good match for the second of these.
+[Marcus Wright] I agree with Elly, also I don’t think it is necessary to specify ‘other patients’.

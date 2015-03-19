@@ -1,8 +1,8 @@
 REQ-ID:NFR05
-Description: The product shall accurately transfer all financial transaction details to the accounts system.
-Type: Performance
-Rationale: Accurate records of payments for treatment must be transferred to the accounts system to enable the creation of valid invoices for insurance companies.
-Fit Criterion: A transaction recorded by the appointments system must exactly match that recorded in the accounts system after a transfer has taken place.
+Description: The product shall enable the easy selection of the payment due for a treatment received.
+Type: Usability
+Rationale: Treatment record forms will be processed frequently, so it must be easy for receptionists to select the payment due for a treatment received during an appointment.
+Fit Criterion: Receptionists can select the payment due for a treatment received during an appointment with a single action.
 Originator: Carol (Office Manager)
 Comments: [Philip Mularo] Initial draft.
 [Sachin Prabhu] I think the description descibes a functional requirement.
@@ -18,3 +18,4 @@ Comments: [Philip Mularo] Initial draft.
 [Paul Wilcox]I think the description may not be pertinent to the requirement its describing. The  FR Description: The product shall record the payment due for a completed appointment. Maybe the interface between the two systems could be the transferring of the treatment and any other associated medical costs. Which would mean a better NFr could be Description: The product shall accurately transfer the costs for a treatment to the accounts system. Then a slight change of the fit criteria to measure that the appointment costs match those in the accounting system.
 [James Oram] I agree that more detail is needed for this requirement. 
 [Marcus Wright]I agree with ben, the fit criteria is a little misleading.  In my view the data relevant to the transaction only should be transferred.
+[Philip Mularo] Many thanks for your comments. I have rewritten this as a usability NFR so that it is more closely related to the original FR and avoids being a functional rather than non-functional requirement.

@@ -1,8 +1,8 @@
 REQ-ID: NFR25
 Description: The product must be able to quickly generate the list of appointments before a session.
-Type: Performance
+Type: 12
 Rationale: The receptionists are expected to perform many tasks at the beginning of a session and should not be required to spend much time generating the list.
-Fit criterion: The receptionist must be able to generate a list of appointments for a session using no more than 3 actions.
+Fit criterion: The receptionist must be able to generate a list of appointments for a session within 10 seconds 90% of the time using no more than 3 actions. It shall never take longer than 15 seconds.
 Originator: Carol (Office Manager)
 Comments:
 [Sachin Prabhu] Initial draft
@@ -18,3 +18,4 @@ Comments:
 [Elly Kelly] As per above. The initially statement "quickly" suggests a performance NFR, but "no more than 3 actions" suggests a usability NFR. 
 [Paul Wilcox] I agree with the others there is a mix of performance and usability in this NFR. It seems to me that its more a usability requirement from the description, quickly and easily are usualy found near each other, the rationale and the fit criterion. I suggest changing quickly to easily, the type to Usability, I think its described as something else in MRP and finally change the rationale so that it focuses on making the task easier for the receptionists. 
 [Marcus Wright] I agree this is a mix of 2 NFRÕs but the fit criterion is good - relating to usability.
+[Sachin Prabhu] I've decided to leave the requirement as a performance requirement. The changes made include tweaking the fit criterion to include a performance related metric. I've also changed the Type from "Performance" to the numeric 12. Thank you everyone who have provided me with good feedback for this requirement.
