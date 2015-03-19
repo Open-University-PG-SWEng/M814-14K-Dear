@@ -39,6 +39,7 @@ Comments: [Philip Mularo]
 Comments: removed requirement FR06 duplicate of FR11 [Kevin Faulkner]
 Comments: removed requirement FR07 duplicate of FR01 [Kevin Faulkner]
 
+<<<<<<< HEAD
 =======
 Description: The product shall record the payment due for a completed appointment.
 Type: Functional
@@ -48,6 +49,8 @@ Comments: [Philip Mularo]
 
 >>>>>>> 1f60ffd1bff8a7ffa72c3aa7912e5a7f62258517
 >>>>>>> b5c814950c8ebd081eebb667c5267374821de1bf
+=======
+>>>>>>> delio-danna
 REQ-ID: FR08
 Description: The product shall record an appointment
 Type: Functional
@@ -175,12 +178,17 @@ Originator: Carol (Office Manager)
 Comments: [Sachin Prabhu]
 
 REQ-ID: FR28
+<<<<<<< HEAD
 Description: The product shall generate a confirmation letter.
+=======
+Description: The product should generate a confirmation letter.
+>>>>>>> delio-danna
 Type: Functional
 Rationale: To notify the patients of their next appointment.
 Originator: Carol (Office Manager)
 Comments: [Delio D'Anna]
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 REQ-ID: FR30
 Description: The product shall identify when a therapist is available to be scheduled for an appointment to provide treatment.
@@ -206,3 +214,7 @@ Type: Functional
 Rationale: To assist in correctly tracking patients treatment sessions and missed appointments.
 Originator: Indirectly based on Carol's description of the work
 Comments: [Miroslav Cosic]
+=======
+
+
+>>>>>>> delio-danna

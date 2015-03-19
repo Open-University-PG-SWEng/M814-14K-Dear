@@ -1,0 +1,8 @@
+REQ-ID: NFR29
+Description: The system should calculate the payment due and produce the invoice in a reasonable amount of time
+Type:12
+Rationale: each patient needs to pay the treatment and then leave the clinic in a reasonable amount of time so that he can carry on whith his daily schedule and no queue is created in the clinic's reception hall.
+Fit Criterion: The system should present a printed invoice in less than 20 seconds in the 90% of the cases
+Originator: Originator:Carol (Office Manager)
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
