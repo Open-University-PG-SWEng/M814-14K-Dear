@@ -5,4 +5,5 @@ Rationale: each patient needs to pay the treatment and then leave the clinic in 
 Fit Criterion: The system should present a printed invoice in less than 20 seconds in the 90% of the cases
 Originator: Originator:Carol (Office Manager)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[Miroslav Cosic] I assume the fit criterion refers to the time needed to get the invoice hard copy provided that the printer is powered up and on-line? Otherwise, it may be unrealistic/non-viable. Otherwise it looks good. Minor edits: perhaps use 12a for type; say "shall" rather than "should"; "say "...in 90% of..."; remove duplicate originator label. 
 
